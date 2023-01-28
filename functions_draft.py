@@ -3,11 +3,14 @@ import pandas as pd
 import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
+import re
 
 # Datasets
 attacks = attacks = pd.read_csv("attacks.csv", index_col=0, encoding='latin-1')
 
-# Cleaning
+# Images
+
+# Generic Cleaning
 def column_remover(df, drop_columns_list):
     df.drop(drop_columns_list, axis = 1, inplace = True)
     return df
@@ -23,7 +26,32 @@ def drop_any (df):
     df.dropna(how="any", axis=0, inplace=True)
     return df
 
+# Specific cleaning
+def species_cleaner (df)
+    df["Species "].filter(regex="(white|tiger|bull)")
+    for specie in df["Species "]:
+        if "white"
+
+def filter_by_pattern(df, column, pattern):
+    mask = df[column].str.contains(pattern, na=False, regex=True)
+    df = df[mask]
+
+def time_cleaner(df):
+    for i in df["Time"]:
+        if len(i) == 5:
+            i.split("h")[0]
+        elif i == "Morning":
+            i = 11
+        elif i == "Afternoon":
+            i = 16
+        elif i == "Evening":
+            i = 19
+        
+
+
+
 # Analysis
+    # Get list with all variables in the dataframe
 def variables_list (df):
    variables =  list(df.keys())
    return variables
