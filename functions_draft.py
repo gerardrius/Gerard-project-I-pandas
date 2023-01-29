@@ -27,29 +27,18 @@ def drop_any (df):
     return df
 
 # Specific cleaning
-def species_cleaner (df)
-    df["Species "].filter(regex="(white|tiger|bull)")
-    for specie in df["Species "]:
-        if "white"
+#def species_cleaner (df)
+#    df["Species "].filter(regex="(white|tiger|bull)")
+#    for specie in df["Species "]:
+#        if "white"
+
+    
 
 def filter_by_pattern(df, column, pattern):
     mask = df[column].str.contains(pattern, na=False, regex=True)
     df = df[mask]
 
-def time_cleaner(df):
-    for i in df["Time"]:
-        if len(i) == 5:
-            i.split("h")[0]
-        elif i == "Morning":
-            i = 11
-        elif i == "Afternoon":
-            i = 16
-        elif i == "Evening":
-            i = 19
         
-
-
-
 # Analysis
     # Get list with all variables in the dataframe
 def variables_list (df):
