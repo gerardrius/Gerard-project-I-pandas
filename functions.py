@@ -3,13 +3,10 @@ import pandas as pd
 import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
-import re
 import datetime
 
 # Datasets
 attacks = attacks = pd.read_csv("attacks.csv", index_col=0, encoding='latin-1')
-
-# Images
 
 # Generic Cleaning
 def column_remover(df, drop_columns_list):
@@ -26,12 +23,6 @@ def drop_all_nans (df):
 def drop_any (df):
     df.dropna(how="any", axis=0, inplace=True)
     return df
-
-# Specific cleaning
-#def species_cleaner (df)
-#    df["Species "].filter(regex="(white|tiger|bull)")
-#    for specie in df["Species "]:
-#        if "white"
 
 def filter_by_pattern(df, column, pattern):
     mask = df[column].str.contains(pattern, na=False, regex=True)
@@ -68,9 +59,7 @@ def weekdays (df):
         except ValueError:
             weekdays_list.append(np.nan)
 
-    df["Weekday"] = weekdays_list
-
-        
+    df["Weekday"] = weekdays_list    
         
 # Analysis
     # Get list with all variables in the dataframe
@@ -104,10 +93,6 @@ def df_datatypes (df):
             print(f"{key} has {len(values)} data types: {values}.")
     
     return variables_datatypes
-
-#    for data_type in variables_datatypes[variable]:
-#        for variable in df[variable]:
-#            type(data_type).count()
 
 # Visualizations
 plt.style.use("classic")
