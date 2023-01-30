@@ -63,7 +63,7 @@ def weekdays (df):
     weekdays_list = []
     for i in range(df.shape[0]): 
         try:
-            weekday = datetime.date(attacks["Year"][i], int(attacks["Month"][i]), attacks["Day"][i]).strftime("%A")
+            weekday = datetime.date(attacks["Year"][i], int(attacks["Month"][i]), attacks["Day"][i]).strftime('%w')
             weekdays_list.append(weekday)
         except ValueError:
             weekdays_list.append(np.nan)

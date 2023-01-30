@@ -1,0 +1,547 @@
+,Date,Year,Type,Country,Area,Location,Activity,Name,Sex ,Age,Injury,Fatal (Y/N),Time,Species ,Month,Day,Weekday
+0,09-Jun-2018,2018,,USA,Hawaii,"Habush, Oahu",Surfing,John Denges,M,48.0,Injury to left lower leg from surfboard skeg,N,07,,6.0,9,Saturday
+1,19-Apr-2018,2018,Unprovoked,USA,Hawaii,"Shipwrecks Beach, Keoneloa Bay, Kauai",Body boarding,Dylan McWilliams,M,29.0,Lacerations to right lower leg,N,,6' shark,4.0,19,Thursday
+2,31-Mar-2018,2018,Unprovoked,USA,Hawaii,Kukio Beach,Stand-Up Paddleboarding,male,M,25.0,Injuries to right leg & hand,N,09,"Tiger shark, 12'",3.0,31,Saturday
+3,31-Dec-2017,2017,Unprovoked,USA,Hawaii,"Hultin's Beach, Oahu",Surfing,Marjorie Mariano,F,54.0,Severe lacerations to left thigh & knee,N,18,Tiger shark,12.0,31,Sunday
+4,30-Dec-2017,2017,Unprovoked,USA,California,"Drakes Estero, Point Reyes, Marin County",Surfing,Natalie Jones,F,35.0,Foot bitten,N,12,,12.0,30,Saturday
+5,18-Nov-2017,2017,Unprovoked,USA,Florida,"Floridana Beach, Brevard County",Surfing,Kaia Anderson,F,14.0,Heel bitten,N,,,11.0,18,Saturday
+6,26-Oct-2017,2017,Unprovoked,USA,Hawaii,"White Plains Beach, Oahu",Stand-Up Paddleboarding,male,M,,No injury but shark bit SUP,N,15,,10.0,26,Thursday
+7,23-Oct-2017,2017,Unprovoked,USA,Florida,"Juno Beach, Palm Beach County",Surfing ,Jason Hartl,M,17.0,Lacerations to left foot,N,17,,10.0,23,Monday
+8,09-Oct-2017,2017,Unprovoked,USA,Hawaii,"Davidsons Beach, Kekaha, Kauai",Surfing,Mitch Milan,M,54.0,Lacerations to left hand,N,18,"Tiger shark, 8 to 10 feet",10.0,9,Monday
+9,25-Sep-2017,2017,Unprovoked,USA,Florida,"Hanna Park, Jacksonville, Duval County",Surfing,Justin White,M,,Lacerations to lower left leg and foot,N,,5' shark,9.0,25,Monday
+10,24-Sep-2017,2017,Unprovoked,USA,Florida,Fort Worth,Surfing,male,M,,Laceration to upper arm,N,14,4' to 5' shark,9.0,24,Sunday
+11,20-Sep-2017,2017,Unprovoked,USA,Florida,Palm Beach County,Surfing,Richard Inniss,M,,Minor lacerations to sole of left foot,N,,,9.0,20,Wednesday
+12,16-Sep-2017,2017,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,male,M,28.0,Lacerations to left foot,N,16,,9.0,16,Saturday
+13,13-Sep-2017,2017,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,Benjamin Loyd,M,18.0,Lacerations to left foot,N,18,5' to 6' shark,9.0,13,Wednesday
+14,02-Sep-2017,2017,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Chase Elmore,M,17.0,Minor injury to right hand,N,10,,9.0,2,Saturday
+15,31-Jul-2017,2017,Unprovoked,USA,Florida,"Jacksonvlle, Duval County",Skimboarding,Colton McCarty,M,15.0,Lacerations to lower leg,N,18,,7.0,31,Monday
+16,19-Jun-2017,2017,Unprovoked,USA,Florida,"Singer Island, Palm Beach County",Surfing,male,M,,1 to 2-inch laceration behind knee,N,,,6.0,19,Monday
+17,10-Jun-2017,2017,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,Bryan Brock,M,19.0,Laceration to left foot,N,10,,6.0,10,Saturday
+18,03-May-2017,2017,,USA,California,"Sunset Beach, Orange County",Surfing,Sophia Raab,F,18.0,"Laceration to thigh, likely caused by surfboard fin",,14,Shark involvement highly doubtful,5.0,3,Wednesday
+19,14-Apr-2017,2017,Unprovoked,USA,Hawaii,"Kekaha Beach, Kauai",Surfing,Baboo,M,28.0,Lower right leg severely injured,N,09,"Tiger shark, 12'",4.0,14,Friday
+20,13-Apr-2017,2017,Unprovoked,USA,Florida,"Hanna Park, Jacksonville, Duval County",Surfing,Keeanan Perry ,M,17.0,Lacerations to right foot,N,13,,4.0,13,Thursday
+21,12-Apr-2017,2017,Unprovoked,USA,Florida,St. Augustine,Surfing,Kerry Keyton,F,,Lacerations to right foot,N,13,,4.0,12,Wednesday
+22,11-Apr-2017,2017,Unprovoked,USA,Florida,"Ormond Beach, Volusia County",Surfing,Denise Holz-Oosterveld,F,35.0,Calf bitten,N,16,,4.0,11,Tuesday
+23,10-Apr-2017,2017,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Paddle boarding,female,F,10.0,Laceration to calf,N,17,,4.0,10,Monday
+24,27-Mar-2017,2017,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Robert Nesbit,M,58.0,Minor injury to left foot,N,10,,3.0,27,Monday
+25,27-Dec-2016,2016,Unprovoked,USA,Florida,"Avalon State Park Beach, North Hutchinson Island, St Lucie County",Surfing,Zack Davis,M,16.0,Lacerations to right forearm,N,17,,12.0,27,Tuesday
+26,11-Dec-2016,2016,,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Shane Garthwait,M,19.0,Cuts to right ankle & foot,,,Shark involvement not confirmed,12.0,11,Sunday
+27,30-Oct-2016,2016,Unprovoked,USA,Florida,"Mayport Naval Station Beach, Duval County",Surfing,Daniel Adams,M,41.0,Lacerations to right foot and ankle,N,,,10.0,30,Sunday
+28,29-Oct-2016,2016,Unprovoked,USA,Florida,Mayport Naval Station  Duval County,Surfing,Derrick Shoup,M,42.0,Lacerations to right hand,N,,,10.0,29,Saturday
+29,21-Oct-2016,2016,Unprovoked,USA,Hawaii,"Hooipa Beach Park, Maui",Surfing,Federico Jaime,M,36.0,Left arm and leg injured,N,17, 6' to 8' shark,10.0,21,Friday
+30,02-Oct-2016,2016,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,M,21.0,Cuts to dorsal surface of left foot,N,11,,10.0,2,Sunday
+31,01-Oct-2016,2016,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfng,male,M,32.0,Minor injuries,N,17,,10.0,1,Saturday
+32,18-Sep-2016,2016,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,M,16.0,Minor injury to thigh,N,13,,9.0,18,Sunday
+33,18-Sep-2016,2016,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Chucky Luciano,M,36.0,Lacerations to hands,N,11,,9.0,18,Sunday
+34,18-Sep-2016,2016,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,M,43.0,Lacerations to lower leg,N,10,,9.0,18,Sunday
+35,17-Sep-2016,2016,Unprovoked,USA,California,"Bunkers, Humboldt Bay, Eureka, Humboldt County",Surfing,Yuma,M,43.0,"No injury, board bitten",N,,,9.0,17,Saturday
+36,04-Sep-2016,2016,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Body boarding,Austin Moore,M,9.0,Foot bitten,N,,,9.0,4,Sunday
+37,29-Aug-2016,2016,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Sam Cumiskey ,M,25.0,Lacerations to right foot,N,15,"Bull shark, 6'",8.0,29,Monday
+38,29-Aug-2016,2016,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,M,37.0,Minor injury to ankle,N,14,,8.0,29,Monday
+39,06-Aug-2016,2016,Unprovoked,USA,Hawaii,Maui,SUP Foil boarding,Connor Baxter,M,21.0,"No inury, shark & board collided",N,16,"Tiger shark, 10' ",8.0,6,Saturday
+40,04-Aug-2016,2016,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Nolan Tyler,M,22.0,Big toe bitten,N,,Blacktip shark,8.0,4,Thursday
+41,16-Jul-2016,2016,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,female,F,9.0,Minor injury to leg,N,,,7.0,16,Saturday
+42,15-Jul-2016,2016,Unprovoked,USA,California,"Surfside, Orange County",Kite surfing,Lee Frees,M,61.0,"No injury, board damaged",N,17,"White shark, 10' to 12'",7.0,15,Friday
+43,15-Jun-2016,2016,Unprovoked,USA,Hawaii,"Kalapaki Beach, Kauai",Surfing,male,M,,Single puncture wound to arm,N,06,3' to 4' shark,6.0,15,Wednesday
+44,23-Apr-2016,2016,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Kelton Beardall,M,15.0,Minor injury to left foot,N,17,,4.0,23,Saturday
+45,13-Mar-2016,2016,,USA,California,"Bolsa Chica State Park, Orange County",Surfing,unknown,,,Board reportedly bumped by shark. No injury,,,Shark involvement not confirmed,3.0,13,Sunday
+46,11-Mar-2016,2016,Unprovoked,USA,Florida,"Vero Beach, St. Lucie County",Body surfing,Daniel Kenny,M,19.0,Lacerations to right foot and ankle,N,13,,3.0,11,Friday
+47,28-Jan-2016,2016,Unprovoked,USA,Hawaii,"Hanalei Bay, Kauai",Surfing,male,M,,Lacerations to both hands,N,14,"Reef shark, 5'",1.0,28,Thursday
+48,25-Jan-2016,2016,Unprovoked,USA,Hawaii,"Hanalei Bay, Kauai, ",Surfing,Kaya Waldman,F,15.0,No injury,N,11,,1.0,25,Monday
+49,23-Jan-2016,2016,Unprovoked,USA,Hawaii,"Wailea Beach, Maui",Paddle boarding,Matt Mason,M,48.0,No injury,N,,"Tiger shark, 14'",1.0,23,Saturday
+50,22-Dec-2015,2015,Unprovoked,USA,Hawaii,La'aloa Beach Park,Paddle boarding,Robert Ford,M,71.0,"No injury, shark bit board",N,,9' shark,12.0,22,Tuesday
+51,16-Nov-2015,2015,Unprovoked,USA,Florida,"Playalinda Beach, Brevard County",Surfing,Aaron Conti,M,,Right heel injured,N,,,11.0,16,Monday
+52,15-Nov-2015,2015,Unprovoked,USA,Florida,"Ocean Reef Park, Singer Island, Palm Beach County",Surfing,Allen Engelman,M,28.0,Lacerations to hand,N,,"Spinner shark, 7'",11.0,15,Sunday
+53,07-Nov-2015,2015,,USA,Florida,"Paradise Beach, Melbourne, Brevard County",Surfing,Ryla Underwood,F,9.0,Lower left leg injured,,11,Shark involvement not confirmed,11.0,7,Saturday
+54,28-Oct-2015,2015,Unprovoked,USA,Hawaii,"Malaka, Oahu",Body boarding,Raymond Senensi,M,10.0,"Lacerations & puncture wounds to right thigh, calf & ankle",N,14,,10.0,28,Wednesday
+55,21-Oct-2015,2015,Unprovoked,USA,Florida,"Playalinda Beach, Brevard County",Surfing,Michael Salinger,M,21.0,Lacerations to left hand,N,14,5' shark,10.0,21,Wednesday
+56,19-Oct-2015,2015,Unprovoked,USA,Florida,"Deerfield Beach, Broward County",Surfing,Peter Kirn,M,21.0,Left foot bitten,N,13,"Spinner shark, 5'",10.0,19,Monday
+57,17-Oct-2015,2015,,USA,Hawaii,"Waikiki, ",Surfing,male,M,32.0,Left foot bitten by eel,,19,No shark involvement,10.0,17,Saturday
+58,09-Oct-2015,2015,Unprovoked,USA,Hawaii,"Leftovers, Oahu",Surfing,Colin Cook,M,25.0,"Left leg severed below the knee, defense injuries to left hand",N,10,"Tiger shark, 13' ",10.0,9,Friday
+59,05-Oct-2015,2015,Unprovoked,USA,Florida,"Pepper Park Beach, St. Lucie County",Body boarding,male,M,22.0,2 lacerations to ankle,N,13,,10.0,5,Monday
+60,04-Oct-2015,2015,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Phillip Tarasovic,M,14.0,Severe lacerations to left hand,N,08,"Blacktip shark, 4' to 5'",10.0,4,Sunday
+61,29-Sep-2015,2015,Unprovoked,USA,Florida,"Vilano Beach, St.  Johns County",Surfing,"David Morrison, Jr.",M,22.0,"Laceration to heel, puncture wounds to dorsum of foot",N,16,"Blacktip shark, 5' to 6'",9.0,29,Tuesday
+62,20-Sep-2015,2015,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,M,14.0,Minor injury to left ankle,N,16,juvenile shark,9.0,20,Sunday
+63,17-Sep-2015,2015,Unprovoked,USA,Florida,"Jacksonville Beach, Duval County",Surfing,Bryan Liebetrau,M,20.0,Injury to right foot,N,15,,9.0,17,Thursday
+64,06-Sep-2015,2015,Unprovoked,USA,California,"El Pescador Beach, Los Angeles County",Stand-Up Paddleboarding,Caterina Gennaro,F,50.0,"No injury, shark struck board, tossing her into the sea",N,17,"White shark, 11' to 12'",9.0,6,Sunday
+65,29-Aug-2015,2015,Unprovoked,USA,California,"Morro Strand State Beach, San Luis Obispo County",Surfing,Elinor Dempsey,F,54.0,"No injury, surfboard bitten",N,10,"White shark, 11' to 12'",8.0,29,Saturday
+66,29-Aug-2015,2015,Unprovoked,USA,California,"Morro Bay, San Luis Obispo County",Surfing,Daniel Phillips,M,21.0,"No injury, shark struk sufer's leg and his board",N,10,"White shark, 10' to 12' ",8.0,29,Saturday
+67,26-Jul-2015,2015,Unprovoked,USA,Florida,"Daytona Beach, Volusia County",Surfing,Shawn Warrilow,M,25.0,Minor injury to sole of foot,N,19,"Blacktip or spinner shark, 4'",7.0,26,Sunday
+68,10-Jul-2015,2015,Unprovoked,USA,California,"Huntington Beach, Orange County",Surfing,Danny Miskin,M,38.0,"No injury, shark bumped & damaged board",N,08,"White shark, 7'",7.0,10,Friday
+69,20-May2015,2015,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Matthew Zaccaria,M,18.0,2 puncture wounds to  dorsum of left foot,N,10,5' shark,,20,
+70,08-Jan-2015,2015,,USA,Florida,,Swimming after falling overboard,Rob Konrad,M,38.0,"During his 16-hour swim to shore, he was circled by a shark but it did not injure him",,,No shark involvement,1.0,8,Thursday
+71,28-Dec-2014,2014,Unprovoked,USA,California,"Montaña de Oro State Park, San Luis Obispo County ",Surfing,Kevin Swanson,M,50.0,Injury to hip/leg,N,11,"White shark, 8' to 10'",12.0,28,Sunday
+72,16-Nov-2014,2014,Unprovoked,USA,Florida,"Indian Harbor Beach, Brevard County",Surfing,male,M,44.0,Laceration to left hand,N,13,2' shark,11.0,16,Sunday
+73,08-Nov-2014,2014,Unprovoked,USA,Florida,"Fort Pierce Inlet State Park, St. Lucie County",Surfing,Ryan Shapiro,M,18.0,Minor injuries to hand & arm ,N,16,,11.0,8,Saturday
+74,31-Oct-2014,2014,Unprovoked,USA,Hawaii,"North Kohala, Hawaii County",Surfing,McKenzie Clark,F,34.0,Lacerations to fingers,N,11,"Tiger shark, 12'",10.0,31,Friday
+75,22-Oct-2014,2014,Unprovoked,USA,Hawaii,"Kihei, Maui",Stand-Up Paddleboarding,Kim Lawrence,F,,"No injury, paddleboard bitten",N,10,Tiger shark,10.0,22,Wednesday
+76,20-Oct-2014,2014,Unprovoked,USA,Hawaii,"Kahului, Maui",Stand-Up Paddleboarding,male,M,,"No injury, paddleboard bitten",N,08,,10.0,20,Monday
+77,18-Oct-2014,2014,Unprovoked,USA,Hawaii,"Maalaea, South Maui",Surfing,Kaleo Roberson ,M,,"No injury, surfboard bitten",N,11,12' to 14' shark,10.0,18,Saturday
+78,12-Oct-2014,2014,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Body surfing or Boogie boarding,female,F,,Laceration to right hand/wrist,N,15,,10.0,12,Sunday
+79,05-Oct-2014,2014,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Kevin Ross,M,29.0,Foot bitten,N,11,Blacktip shark,10.0,5,Sunday
+80,05-Oct-2014,2014,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Hilton Mantooth,M,15.0,Foot bitten,N,11,Blacktip shark,10.0,5,Sunday
+81,02-Oct-2014,2014,Unprovoked,USA,California,"Walls Beach, Vandenberg AFB, Santa Barbara County",Surfing,M.M.,M,28.0,Lacerations to knee,N,17,8' to 10' shark,10.0,2,Thursday
+82,21-Sep-2014,2014,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Jordan Lefebvre,M,,Minor injury to left foot,N,11,,9.0,21,Sunday
+83,13-Sep-2014,2014,,USA,California,"Manresa State Beach, Santa Cruz County",Surfing,Beau Browning,M,,"A hoax, no shark involvement",,18,No shark involvement,9.0,13,Saturday
+84,31-Aug-2014,2014,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Body surfing,Alexandra Masterson,F,13.0,Injury to left calf,N,16,Spinner shark,8.0,31,Sunday
+85,29-Aug-2014,2014,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,Brendan Murphy,M,17.0,Lacerations to shin,N,,Spinner shark or blacktip shark,8.0,29,Friday
+86,02-Aug-2014,2014,Unprovoked,USA,Florida,"South of Cocoa Beach, Brevard County",Surfing,male,M,,Foot bitten,N,,,8.0,2,Saturday
+87,02-Aug-2014,2014,Unprovoked,USA,Florida,"Table Beach, Brevard County",Boogie boarding,Christian Sanhueza,M,8.0,Laceration to ankle,N,13,,8.0,2,Saturday
+88,9-Jul-2014,2014,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Tristan Durham,M,14.0,Lacerations to foot,N,14,,,9-Jul-2014,
+89,5-Jul-2014,2014,Unprovoked,USA,California,"Oceano Dunes State Beach, San Luis Obispo County",Surfing,R.J.,M,,"No injury, surboard bitten",N,,,,5-Jul-2014,
+90,15-May-2014,2014,Unprovoked,USA,Florida,"Juan Ponce de León Landing, Melbourne Beach, Brevard County",Body boarding,Amy Tatsch,F,38.0,Calf bitten,N,11,,5.0,15,Thursday
+91,01-May-2014,2014,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Shane Nolet,M,23.0,Laceration to right hand and cuts on fingertips,N,15,3' shark,5.0,1,Thursday
+92,04-Apr-2014,2014,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,M,,Minor puncture wounds to lower left leg,N,13,,4.0,4,Friday
+93,04-Apr-2014,2014,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,M,,Lacerations to foot,N,13,,4.0,4,Friday
+94,22-Mar-2014,2014,Unprovoked,USA,Florida,Delray Beach,Kite Surfing,Kurt Hoffman,M,,Lacerations to left forearm,N,,4' to 5' shark,3.0,22,Saturday
+95,21-Mar-2014,2014,Unprovoked,USA,Florida,Macarthur State Park,Surfing,Sebastian Cozzen,M,9.0,Lacerations to toes and heel of right foot,N,,,3.0,21,Friday
+96,02-Mar-2014,2014,Unprovoked,USA,Florida,"Santa Lucea Beach, South Hutchinson Island, St. Lucie County",Surfing,Dylan Fugitt,M,21.0,Lacerations to toes,N,,Blacktip or spinner shark?,3.0,2,Sunday
+97,11-Dec-2013,2013,Unprovoked,USA,Hawaii,"Ninole Bay, Hawaii County",Boogie boarding,male,M,29.0,Lacerations to right hand & knee,N,08,"Tiger shark, 10' to 12'",12.0,11,Wednesday
+98,10-Dec-2013,2013,Unprovoked,USA,Florida,"Cocoa Beach, Brevard  County",Surfing,Bobby Baughman,M,30.0,Right foot bitten,N,14,4' to 6' shark,12.0,10,Tuesday
+99,07-Nov-2013,2013,Unprovoked,USA,Florida,"Floridana Beach, Brevard County",Surfing,Sandor Melian,M,,Foot bitten,N,,,11.0,7,Thursday
+100,31-Oct-2013,2013,Unprovoked,USA,Hawaii,"Kanaha Beach, Maui",Kiteboarding,Christian Brandon,M,46.0,Severe bite to right calf & anklel,N,15,Tiger shark,10.0,31,Thursday
+101,20-Oct-2013,2013,Unprovoked,USA,Hawaii,"Pila'a Beach, Kaua'i",Surfing,Jeff Horton,M,25.0,"No injury, shark bit surfboard",N,11,Tiger shark,10.0,20,Sunday
+102,06-Oct-2013,2013,Unprovoked,USA,California,"Bunkers, Humboldt Bay, Eureka, Humboldt County",Surfing,Jay Scrivner,M,45.0,Laceration to thigh,N,08,"White shark, 8' to 10'",10.0,6,Sunday
+103,29-Sep-2013,2013,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Surfing,male,M,50.0,Lacerations to hand,N,10,,9.0,29,Sunday
+104, 21-Sep-2013,2013,Unprovoked,USA,Florida,"Carlin Park, Jupiter, Palm Beach County",Surfing,Brandon Dugan,M,,Lacerations to left foream,N,,,,2,
+105, 12-Sep-2013,2013,Unprovoked,USA,Florida,"New Smyrna Beach,  Volusia County",Surfing,Storm Portman,F,13.0,Heel bitten,N,13,3' shark,,1,
+106, 07-Sep-2013,2013,Provoked,USA,Florida,"New Smyrna Beach,  Volusia County",Surfing,John Graham,M,43.0,Foot bitten when he accidentally jumped onto the shark PROVOKED INCIDENT,N,16,3' shark,,0,
+107, 25-Aug-2013,2013,Unprovoked,USA,Florida,"Winterhaven Park,           Ponce Inlet, Volusia County",Boogie boarding,Riley Breihan,F,11.0,Minor injury to left lower leg & heel,N,17,,,2,
+108, 18-Aug-2013,2013,Unprovoked,USA,Hawaii,Pohoiki ,Surfing,Jimmy Napeahi,M,16.0,Lacerations to buttocks & thigh,N,13,,,1,
+109,17-Aug-2013,2013,Unprovoked,USA,California,"Pillar Point, Half-Moon Bay, San Mateo County",Surfing,Wendi Zuccaro,F,,"No injury, shark bumped surfboard",N,12,White shark,8.0,17,Saturday
+110, 13-Aug-2013,2013,Unprovoked,USA,Hawaii,"Ka'a Point, Maui",Kiteboarding,Morgan Flannery,F,19.0,No injury & not on board. Board adrift when bitten by shark,N,13,,,1,
+111,  29-Jul-2013,2013,Unprovoked,USA,Hawaii,"White Plains Beach, Oahu",Surfing,Kiowa Gatewood,M,18.0,Lower leg bitten,N,14,"Tiger shark, 8' to 10' ",,  29-Jul-2013,
+112,15-Jun-2013,2013,Unprovoked,USA,Florida,"Atlantic Beach, Duval County",Surfing,female,F,,Lacerations to left ankle,N,,,6.0,15,Saturday
+113,08-May-2013,2013,,USA,California,"Tourmaline Surf Park, San Diego County",Surfing,Brandon Beaver,M,42.0,Shark bites were post-mortem,,,Invalid,5.0,8,Wednesday
+114,04-May-2013,2013,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Surfing,Michael Adler,M,16.0,Lacerations to left foot and ankle,N,11,a small shark,5.0,4,Saturday
+115,17-Apr-2013,2013,Unprovoked,USA,Florida,"Near Boynton Beach, Palm Beach County",Playing in the surf,Colten Cicarelli,M,9.0,Lacerations to right foot,N,10,3' shark,4.0,17,Wednesday
+116,13-Apr-2013,2013,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Joshua White,M,21.0,Minor lacerations to right hand,N,13,Bull shark,4.0,13,Saturday
+117,02-Apr-2013,2013,Unprovoked,USA,Hawaii,Kaanapali Shores,Surfing,male,M,58.0,Right thigh bitten,N,08,4' shark,4.0,2,Tuesday
+118,21-Feb-2013,2013,Unprovoked,USA,Hawaii,"Ka'anapali, Honokowai, Maui",Surfing,,,,Lacerations to right leg,N,18,reef shark?,2.0,21,Thursday
+119,21-Feb-2013,2013,Unprovoked,USA,Hawaii,"Paia Bay, Maui",Surfing,Jacob Lanskey,M,,"No injury, shark bit rail of foam board",N,18,reef shark?,2.0,21,Thursday
+120,10-Feb-2013,2013,Unprovoked,USA,Florida,"""Stuart Rocks"", Martin County",Surfing,Cole Taschman,M,16.0,Lacerations to right hand,N,14,"Blacktip shark, 4' to 5'",2.0,10,Sunday
+121,16-Jan-2013,2013,Unprovoked,USA,Hawaii,Kiholo Bay,Surfing,Paul Santos,M,43.0,Left forearm bitten ,N,16,"Tiger shark, 15'",1.0,16,Wednesday
+122,05-Dec-2012,2012,Unprovoked,USA,Hawaii,Kauai,Surfing,"""Lorrin""",M,60.0,Lacerations to left foot,N,13,10' shark,12.0,5,Wednesday
+123,19-Nov-2012,2012,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Surfing,Kai Rittgers,M,14.0,Minor lacerations to left foot & heel,N,17,2' to 3' shark,11.0,19,Monday
+124,04-Nov-2012,2012,Unprovoked,USA,Hawaii,"Davidson's Surf Break, Kekaha, Kaua'i",Surfing,male,M,43.0,"No injury, surfboard bitten",N,08,"Tiger shark, 8'",11.0,4,Sunday
+125,30-Oct-2012,2012,Unprovoked,USA,California,"Humboldt Bay, Eureka, Humboldt County",Surfing,Scott Stephens,M,25.0,Multiple lacerations to torso,N,12,White shark,10.0,30,Tuesday
+126,23-Oct-2012,2012,Unprovoked,USA,California,"Surf Beach, Lompoc, Santa Barbara County",Surfing,Francisco Javier Solorio Jr,M,39.0,FATAL,Y,11,"White shark, 15' to 16' ",10.0,23,Tuesday
+127,18-Oct-2012,2012,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,male,M,24.0,Minor bite to ankle,N,10,,10.0,18,Thursday
+128,18-Oct-2012,2012,Unprovoked,USA,Hawaii,"Kanaha Beach, Maui",Paddle boarding,David Peterson,M,55.0,"No injury, board bitten",N,07,6' to 8' shark,10.0,18,Thursday
+129,10-Oct-2012,2012,Unprovoked,USA,California,"Davenport Landing, Santa Cruz County",Windsurfing,Gunner Proppe,M,42.0,"No ijnury to boardrider, shark struck board breaking the mast",N,18,,10.0,10,Wednesday
+130,25-Sep-2012,2012,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Surfing,Brandon Taylor,M,21.0,Lacerations to left forearm,N,16,5' shark,9.0,25,Tuesday
+131,24-Sep-2012,2012,Unprovoked,USA,Florida,"Spanish House Beach, Brevard County",Surfing,Brandon Murray,M,22.0,Left foot bitten,N,,4' shark,9.0,24,Monday
+132,16-Sep-2012,2012,Unprovoked,USA,Florida," Cocoa Beach, Brevard  County",Surfing,male,M,52.0,Foot bitten,N,15,,9.0,16,Sunday
+133,09-Sep-2012,2012,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,teen,,19.0,Minor injury to elbow,N,14,,9.0,9,Sunday
+134,08-Sep-2012,2012,Unprovoked,USA,Florida,"Lori Wilson Park, Cocoa Beach, Brevard  County",Surfing,Matthew Fowler,M,25.0,Right foot bitten,N,12,,9.0,8,Saturday
+135,06-Sep-2012,2012,Unprovoked,USA,Florida,"Neptune Beach, Duval County",Surfing,James Fyfe,M,,Right calf bitten,N,,,9.0,6,Thursday
+136,06-Sep-2012,2012,Unprovoked,USA,Florida,"St. Augustine Beach, St. John's County",Surfing,Andrew Birchall,M,37.0,Lacerations to foot,N,11,,9.0,6,Thursday
+137,04-Sep-2012,2012,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Surfing,male,M,32.0,Puncture wounds to hand,N,07,,9.0,4,Tuesday
+138,02-Sep-2012,2012,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Boogie boarding,female,F,8.0,Puncture wounds to calf and hand,N,18,3.5' to 4' shark,9.0,2,Sunday
+139,02-Sep-2012,2012,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Swimming or boogie boarding,female,F,56.0,Puncture wound to left ankle,N,16,3.5' to 4' shark,9.0,2,Sunday
+140,31-Jul-2012,2012,Unprovoked,USA,California,"Topanga Beach, Los Angeles County",Surfing,Jared Tennison,M,17.0,"No injury, surfer knocked off board when shark struck surfboard",N,06,,7.0,31,Tuesday
+141,30-Jul-2012,2012,Unprovoked,USA,Hawaii,"Mahaulepu Beach, Kauai",Surfing,Steve Stotts,M,44.0,Left foot bitten,N,16,,7.0,30,Monday
+142,26-Jun-2012,2012,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,M,26.0,Nip to left foot,N,15,,6.0,26,Tuesday
+143,02-Jun-2012,2012,Unprovoked,USA,Florida,"Bethune Beach, Volusia County",Surfing,Angelina DelRosso,F,12.0,Laceration to thigh,N,,,6.0,2,Saturday
+144,23-May-2012,2012,Unprovoked,USA,Florida,"Jacksonville, Duval County",Surfing,Chad Refro,M,22.0,Lacerations to foot,N,15,4' to 5' shark,5.0,23,Wednesday
+145,06-May-2012,2012,Unprovoked,USA,California,Off Catalina Island,Paddle boarding,Rose McKereghan,F,15.0,"No injury, shark bit paddleboard",N,07,White shark,5.0,6,Sunday
+146,19-Apr-2012,2012,Unprovoked,USA,Florida,"Indialantic, Brevard County",Surfing,Justin Ellingham,M,28.0,Lacerations to hand,N,19,5' shark,4.0,19,Thursday
+147,03-Apr-2012,2012,Unprovoked,USA,Hawaii,"Leftovers near Chun's Reef, Oahu",Surfing,Joshua Holley,M,28.0,Lacerations to left foot,N,12,"Tiger shark, 10'  ",4.0,3,Tuesday
+148,24-Mar-2012,2012,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Joey Coppola,M,21.0,Minor lacerations to foot,N,14,,3.0,24,Saturday
+149,15-Mar-2012,2012,Unprovoked,USA,Florida,"Jensen Beach, Martin County ",Surfing,Frank Wacha,M,61.0,Left forearm bitten,N,15,Possibly a 5' to 6' bull shark,3.0,15,Thursday
+150,14-Mar-2012,2012,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Sydney Levy,F,15.0,Bitten on ankle,N,16,4' to 5' shark,3.0,14,Wednesday
+151,14-Mar-2012,2012,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Nick Romano,M,17.0,Bitten on calf,N,16,4' to 5' shark,3.0,14,Wednesday
+152,04-Mar-2012,2012,Unprovoked,USA,Florida,"Playalinda Beach, Brevard County",Kite Surfing,Justin Worral,M,19.0,Lacerations to left calf,N,13,4' shark,3.0,4,Sunday
+153,26-Feb-2012,2012,Provoked,USA,Florida,"Palm Beach Inlet, Palm Beach County",Kite Surfing,Jason Lasser,M,,Laceration to right foot when he struck a shark PROVOKED INCIDENT,N,14,Spinner shark,2.0,26,Sunday
+154,23-Dec-2011,2011,Unprovoked,USA,Florida,New Smyrna Beach,Surfing,Will Futato,M,27.0,Laceration to ankle,N,12,,12.0,23,Friday
+155,  29-Oct-2011,2011,Unprovoked,USA,California,"Marina State Beach, Monterey County",Surfing,Eric Tarantino,M,27.0,"Lacerations to right wrist, foream & neck",N,,White shark,,  29-Oct-2011,
+156,11-Oct-2011,2011,Unprovoked,USA,Florida,Cape Canaveral,Surfing,Tim Riley,M,,Foot bitten,N,,3' shark,10.0,11,Tuesday
+157,16-Sep-2011,2011,Unprovoked,USA,Florida,New Smyrna Beach,Surfing,Daniel Jorgensen,M,25.0,Lacerations to arm,N,11,4' to 6' shark,9.0,16,Friday
+158,11-Sep-2011,2011,Unprovoked,USA,California,"Samoa Beach, Humboldt County",Surfing,Benjie Rose,M,37.0,"No injury, board bitten",N,12,,9.0,11,Sunday
+159,04-Sep-2011,2011,Unprovoked,USA,Hawaii,"Nimitz State Beach, Oahu",Surfing,M. Filipe,,,"No injury, shark bit surfboard",N,13,,9.0,4,Sunday
+160,02-Sep-2011,2011,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Daniel True,M,19.0,Lacerations to ankle & foot,N,11,"6' shark, possibly a blactip or spinner shark",9.0,2,Friday
+161,31-Aug-2011,2011,Unprovoked,USA,Florida,Crescent Beach St. Johns County,Surfing,Shane Lancaster,M,19.0,Lacerations to lower leg,N,11,6' shark,8.0,31,Wednesday
+162,24-Jun-2011,2011,Unprovoked,USA,California,"San Onofre State Beach, San Diego County",Surfing,Doug Green,M,,Shark leapt onto surfboard; surfer uninjured ,N,13,"White shark, 5' k",6.0,24,Friday
+163,25-May-2011,2011,Unprovoked,USA,Hawaii,"Lyman Beach, Kailua-Kona",Surfing,Theresa Fernandez,F,,"No injury, board bitten",N,13,"Tiger shark, 10'",5.0,25,Wednesday
+164,22-May-2011,2011,Unprovoked,USA,Hawaii,"Lyman Beach, Kailua-Kona",Paddle boarding,Alaina DeBina,F,,"No injury, board bitten",N,12,Tiger shark,5.0,22,Sunday
+165,13-May-2011,2011,Unprovoked,USA,Florida,"Ponte Vedra Beach, St Johns County",Body surfing,Bob Brown,M,86.0,Lacerations to left foot & ankle,N,15,,5.0,13,Friday
+166,13-May-2011,2011,Unprovoked,USA,Florida,"Ormond Beach, Volusia County",Surfing,Adrian Bronson,M,37.0,Minor injury; puncture wounds to calf,N,06,,5.0,13,Friday
+167,22-Apr-2011,2011,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing ,Ronald White,M,49.0,Minor puncture wounds,N,15,1' to 2' shark,4.0,22,Friday
+168,26-Dec-2010,2010,Unprovoked,USA,Hawaii," Kahului, Maui",Body boarding,Vaun Stover-French ,M,16.0,"Lacerations to his lower left leg, calf, foot & ankle",N,15,6' shark,12.0,26,Sunday
+169,11-Dec-2010,2010,Unprovoked,USA,Hawaii,"Tavares Bay, Maui",Surfing,Andrew Wilson,M,46.0,Lacerations to right foot,N,13,,12.0,11,Saturday
+170,22-Oct-2010,2010,Unprovoked,USA,California,"Surf Beach, Vandenberg AFB, Santa Barbara County",Body boarding,Lucas Ransom,M,19.0,FATAL,Y,08,"White shark, 14' to 18' ",10.0,22,Friday
+171, 04-Sep-2010,2010,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Kris Kerr,M,,"No injury, shark charged surfboard",N,,,,0,
+172,03-Sep-2010,2010,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Jason Coffman,M,24.0,Lacerations to right  hand ,N,12,,9.0,3,Friday
+173,03-Sep-2010,2010,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Andrew Heald,M,24.0,Left thigh bitten,N,09,,9.0,3,Friday
+174,18-Aug-2010,2010,Unprovoked,USA,Florida,Crescent Beach St. Johns County,Boogie Boarding,Seth Shorten,M,10.0,Minor injuries to foot,N,09,,8.0,18,Wednesday
+175,23-Jul-2010,2010,Unprovoked,USA,Florida,"Jacksonville Beach, Duval County",Surfing,Clayton Schulz,M,20.0,Left foot bitten,N,16,,7.0,23,Friday
+176,17-Jul-2010,2010,Unprovoked,USA,Florida,New Smyrna Beach,Surfing,Jimmy Johnston,M,55.0,Minor lacerations to right foot,N,,A small spinner shark,7.0,17,Saturday
+177,02-Jul-2010,2010,Unprovoked,USA,California,"Pismo Beach, San Luis  Obispo County",Surfing,Derek Crane,M,19.0,Laceration to left foot,N,,4' shark,7.0,2,Friday
+178,02-Jul-2010,2010,Unprovoked,USA,California,"Dog Patch, San Onofre",Stand-Up Paddleboarding,David Bull,M,48.0,"No injury, board bumped by shark",N,15,8' shark,7.0,2,Friday
+179,10-Jun-2010,2010,Unprovoked,USA,Florida,Jacksonville,Boogie Boarding,Hannah Mayo-Foster,F,18.0,Lacerations to left calf and foot,N,12,4' shark,6.0,10,Thursday
+180,Jun-2010,2010,Unprovoked,USA,Florida,"Ponte Vedra Beach, St Johns County",Surfing,Matt Searcy,M,20.0,Lacerations to left foot,N,,,,Jun-2010,
+181,19-Apr-2010,2010,Unprovoked,USA,Hawaii,"Hanalei Bay, Kauai",Surfing,Jim Rawlinson,M,68.0,"No injury, surfboard bitten",N,16,14' shark,4.0,19,Monday
+182,06-Feb-2010,2010,Provoked,USA,Florida,Riviera Beach,Surf fishing / wading,male,M,,Leg bitten while trying to free a hooked shark PROVOKED INCIDENT,N,15,"Spinner shark, 6'",2.0,6,Saturday
+183,03-Feb-2010,2010,Unprovoked,USA,Florida,"Stuart, Martin County",Kite Boarding,Stephen Howard Schafer,M,38.0,FATAL,Y,15,,2.0,3,Wednesday
+184,25-Nov-2009,2009,,USA,California,"Huntington Beach, Orange County",Surfing,Kenneth Hall,M,49.0,Puncture wounds to right foot,,15,Shark involvement not confirmed,11.0,25,Wednesday
+185,16-Nov-2009,2009,Unprovoked,USA,Florida,"Jupiter, Palm Beach County",Surfing,Steven Burdelski,M,22.0,Foot bitten,N,09,,11.0,16,Monday
+186,13-Nov-2009,2009,Unprovoked,USA,Florida,"Jupiter, Palm Beach County",Surfing,Melissa Hardcastle,F,27.0,Foot bitten,N,16,,11.0,13,Friday
+187,11-Nov-2009,2009,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,M,18.0,Foot bitten,N,,4' shark,11.0,11,Wednesday
+188,05-Nov-2009,2009,Unprovoked,USA,California,"Davenport, Santa Cruz County",Surfing,Eric Geiselman,M,21.0,"No injury, board broken in half",N,,,11.0,5,Thursday
+189,24-Oct-2009,2009,Unprovoked,USA,California,"San Onofre, San Diego County ",Surfing,Scott Barton,M,,"3 puncture wounds to big toe of left foot, and laceration on arch of foot",N,17,,10.0,24,Saturday
+190,19-Oct-2009,2009,Unprovoked,USA,Hawaii,"Kalama Park, Maui",Surfing,Scott Henrich,M,54.0,Bitten on upper right thigh & right ankle,N,06,6' to 8' shark,10.0,19,Monday
+191,09-Oct-2009,2009,Unprovoked,USA,California,"San Onofre State Beach, San Diego County",Surfing,Bernard Wagor,M,,Laceration to shin of left leg,N,11,,10.0,9,Friday
+192,30-Aug-2009,2009,Unprovoked,USA,California,"Huntington Beach, Orange County",Surfing,Cory Hedgepeth,M,,No injury,N,18,4' shark,8.0,30,Sunday
+193,06-Aug-2009,2009,Unprovoked,USA,Hawaii,Kawa'a ,Surfing,Dylan Crawford,M,,"No injury, surfboard bitten",N,08,"Tiger shark, 12",8.0,6,Thursday
+194,11-Jul-2009,2009,Unprovoked,USA,California,"San Onofre, San Diego County ",Paddle-surfing,Brian Hovnanian,M,,"No injury, shark collided with surfer & board",N,08,5' shark,7.0,11,Saturday
+195,05-Jul-2009,2009,Unprovoked,USA,Florida,"Daytona Beach, Volusia County",Boogie Boarding,female,F,12.0,Right ankle bitten,N,16,,7.0,5,Sunday
+196,21-Jun-2009,2009,,USA,California,"Shell Beach, San Luis Obispo County",Surfing,male,M,26.0,Puncture wounds to foot,,,Shark involvement not confirmed,6.0,21,Sunday
+197,17-May-2009,2009,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Nolan Provido,M,31.0,Lacerations to left leg & foot,N,09,blacktip or spinner shark,5.0,17,Sunday
+198,16-May-2009,2009,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Bryan Heath,M,49.0,Lacerations to right foot,N,10,blacktip or spinner shark,5.0,16,Saturday
+199,16-May-2009,2009,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,David Bryant,M,55.0,Lacerations to right hand,N,10,blacktip or spinner shark,5.0,16,Saturday
+200,Reported 25-Apr-2009,2009,Unprovoked,USA,California,"San Onofre State Beach, San Diego County",Surfing,Drew Senner,M,,No injury,N,10,,,Reported 25-Apr-2009,
+201,21-Apr-2009,2009,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,M,20.0,3 puncture wounds to posterior right ankle,N,,,4.0,21,Tuesday
+202,19-Apr-2009,2009,Unprovoked,USA,Florida,"Carlin Park, Jupiter Inlet",Surfing,Bruce Klinker,M,52.0,Left foot bitten,N,16,,4.0,19,Sunday
+203,17-Apr-2009,2009,Unprovoked,USA,Florida,"Walton Rocks, St Lucie County",Surfing,Alexander Wagner,M,31.0,Laceration to forearm,N,13,2' to 3' shark,4.0,17,Friday
+204,18-Mar-2009,2009,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,female,F,17.0,Minor bite to ankle,N,17,3' to 4' shark,3.0,18,Wednesday
+205,28-Sep-2008,2008,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,David Logan,M,44.0,Small puncture wounds to the heel of left foot,N,11,,9.0,28,Sunday
+206,28-Sep-2008,2008,Unprovoked,USA,Florida,Bethune Beach,Surfing,David Carr,M,40.0,Right foot bitten,N,11,+3' shark,9.0,28,Sunday
+207,09-Sep-2008,2008,Unprovoked,USA,Hawaii,"Ka'a'awa, Oahu",Surfing,Todd Murashige,M,40.0,Bitten on right thigh & calf,N,16,Tiger shark,9.0,9,Tuesday
+208,08-Sep-2008,2008,Unprovoked,USA,California,"Surf Beach, Lompoc, Santa Barbara County",Surfing,Kyle K.,M,,"No injury to surfer, board bitten",N,10,"White shark, 14' to 16' ",9.0,8,Monday
+209,06-Sep-2008,2008,Unprovoked,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",Surfing,male,M,43.0,Minor injury to foot,N,12,,9.0,6,Saturday
+210,06-Sep-2008,2008,Unprovoked,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",Surfing,male,M,15.0,Minor injury to foot,N,12,,9.0,6,Saturday
+211,01-Sep-2008,2008,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Joe McGauley,M,52.0,Shark bumped right ankle,N,10,4' shark,9.0,1,Monday
+212,Sep-2008,2008,Unprovoked,USA,Florida,Hutchinson Island,Surfing,Daryl Zbar,M,,Right hand bitten,N,,,,Sep-2008,
+213,28-Aug-2008,2008,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Thomas Gold,M,19.0,Superfical cut to left ankle,N,12,,8.0,28,Thursday
+214,27-Aug-2008,2008,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Alexander Zgura,M,26.0,Lacerations to lower left leg,N,11,6' shark,8.0,27,Wednesday
+215,24-Aug-2008,2008,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County","Swimming, towing surfboard",Jacob Shoup,M,20.0,Minor injury to left foot,N,15,,8.0,24,Sunday
+216,25-Jul-2008,2008,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Ethan Fulton,M,17.0,Right foot bitten,N,09,,7.0,25,Friday
+217,23-Jul-2008,2008,Provoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Troy Zettle,M,15.0,Foot bitten after he stepped on the shark PROVOKED INCIDENT,N,14,,7.0,23,Wednesday
+218,26-Jun-2008,2008,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,M,29.0,Minor laceration to foot,N,,,6.0,26,Thursday
+219,07-Jun-2008,2008,Unprovoked,USA,Florida,"Cocoa Beach, Brevard  County",Body surfing,John Vasbinder,M,40.0,Lacerations & abrasions to right hand,N,,,6.0,7,Saturday
+220,28-Apr-2008,2008,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,David Alger,M,18.0,3-inch laceration to dorsal surface of left foot,N,11,4' shark,4.0,28,Monday
+221,27-Apr-2008,2008,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Adam Tobin,M,24.0,Calf bitten,N,10,,4.0,27,Sunday
+222,26-Apr-2008,2008,Provoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Mark Pattison,M,21.0,Puncture wounds to right foot                  PROVOKED INCIDENT,N,09,,4.0,26,Saturday
+223,20-Apr-2008,2008,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,female,M,14.0,Cuts & punctures to right foot,N,08,,4.0,20,Sunday
+224,15-Apr-2008,2008,Unprovoked,USA,Florida,"Playalinda Beach, Canaveral National Seashore, Brevard County",Surfing,Bobby Phillips,M,30.0,Puncture wounds to right foot,N,15,1.5' to 2' shark,4.0,15,Tuesday
+225,Reported 08-Apr-2008,2008,Unprovoked,USA,Florida,"1.4 miles south of Ponce de Leon Jetty, New Smyrna Beach, Volusia County",Surfing,,,,Foot bitten,N,,,,Reported 08-Apr-2008,
+226,03-Apr-2008,2008,Unprovoked,USA,Florida,"South of Ponce de Leon Jetty, New Smyrna Beach, Volusia County",Walking out of the water after surfing,Joey Giangrasso,M,18.0,Right foot & ankle bitten,N,12,,4.0,3,Thursday
+227,28-Mar-2008,2008,Unprovoked,USA,Florida,"New Smyrna Beach / Ponce Inlet, Volusia County",Surfing,Mark Lemelin,M,52.0,Foot bitten,N,18,4' to 5' shark,3.0,28,Friday
+228,28-Mar-2008,2008,Unprovoked,USA,Florida,"Near Cocoa Beach, Brevard  County",Boogie Boarding,Teresa Holloway,M,,Right foot bitten,N,,a small shark,3.0,28,Friday
+229,23-Mar-2008,2008,Unprovoked,USA,Florida,"South of Ponce de Leon Jetty, New Smyrna Beach, Volusia County",Walking out of the water after surfing,male,M,13.0,Three small lacerations/ punctures to right foot,N,11,2.5' shark,3.0,23,Sunday
+230,07-Mar-2008,2008,Unprovoked,USA,California," Huntington Beach, Orange County",Surfing,Thomas Larkin,M,27.0,"No injury to surfer, surfboard bitten by the shark",N,08,White shark,3.0,7,Friday
+231,15-Feb-2008,2008,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,Harold Bradner,M,25.0,Lacerations to foot,N,17,,2.0,15,Friday
+232,06-Feb-2008,2008,Unprovoked,USA,Florida,"Opposite Patrick Air Force Base, Brevard County",Surf-skiing,Unidentified,M,,Lacerations to foot,N,,3' shark,2.0,6,Wednesday
+233,10-Jan-2008,2008,Unprovoked,USA,Florida,"Playalinda Beach, Canaveral National Seashore, Brevard County",Surfing,Jordan Marsden,M,20.0,Left foot bitten,N,,a small shark,1.0,10,Thursday
+234,10-Dec-2007,2007,Unprovoked,USA,Hawaii,"Waialua Bay, O'ahu",Surfing,Valentino Ramirez,M,52.0,"No injury, shark bit surfboard ",N,,Tiger shark,12.0,10,Monday
+235,06-Nov-2007,2007,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Joseph Fox,M,21.0,Cut to right knee,N,,4' to 5' shark,11.0,6,Tuesday
+236,04-Nov-2007,2007,Unprovoked,USA,Florida,"Round Island Park, Indian River County",Surfing,Jeffrey Nolan,M,42.0,Lacerations to right leg,N,09,5' shark,11.0,4,Sunday
+237,07-Oct-2007,2007,Unprovoked,USA,California,"Venice Pier, Venice, Los Angeles County",Surfing,Sam Bendall,M,22.0,4 scratches on left hand,N,20,3' to 4' shark,10.0,7,Sunday
+238,06-Oct-2007,2007,Unprovoked,USA,Florida,"Playalinda Beach, Canaveral National Seashore, Brevard County",Surfing,E.H.,M,16.0,Severe lacerations to right hand,N,08,"Blacktip shark, 5'",10.0,6,Saturday
+239,30-Sep-2007,2007,Unprovoked,USA,California,"Santa Monica, Los Angeles County",Surfing,Andrew Sinagra,M,,Puncture wound to foot,N,11,,9.0,30,Sunday
+240,27-Sep-2007,2007,Unprovoked,USA,California,"Moonstone Beach, Humboldt County",Surfing,Sue Snyder,F,,"No injury to surfer, surfboard bitten",N,08,White shark,9.0,27,Thursday
+241,22-Sep-2007,2007,Unprovoked,USA,Florida,Huguenot Park,Surfing,,F,,Laceration to foot,N,,4' shark,9.0,22,Saturday
+242,20-Sep-2007,2007,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Tyler Robertson,M,23.0,Small lacerations to bottom of right big toe,N,18,3' shark,9.0,20,Thursday
+243,16-Sep-2007,2007,Unprovoked,USA,Florida,"Flagler Beach, Flagler County",Surfing,Jessica Riley,F,,"No injury, surfboard bitten",N,,9.5' shark?,9.0,16,Sunday
+244,28-Aug-2007,2007,Unprovoked,USA,Hawaii,"Ka'a'awa, Oahu",Body boarding,Joshua Sumait,M,15.0,Laceration to right heel,N,16,"Tiger shark, 10' to 12' ",8.0,28,Tuesday
+245,28-Aug-2007,2007,Unprovoked,USA,California,"Marina State Beach, Monterey County",Surfing,Todd Endris,M,24.0,Lacerations to thigh & torso,N,10,"White shark, 12'",8.0,28,Tuesday
+246,26-Aug-2007,2007,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Joseph Coursey,M,54.0,Left hand  bitten,N,14,3' shark,8.0,26,Sunday
+247,25-Aug-2007,2007,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Taylor Smith,M,27.0, 6 lacerations to left hand,N,,3' shark,8.0,25,Saturday
+248,19-Aug-2007,2007,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,M,16.0,Foot bitten,N,12,4' to 5' shark,8.0,19,Sunday
+249,11-Aug-2007,2007,Unprovoked,USA,Florida,"Ponce Inlet,  New Smyrna Beach, Volusia County",Walking out of the water after surfing,Matthew Barton,M,19.0,"Minor injury, lacerations to left ankle & foot ",N,18,,8.0,11,Saturday
+250,29-Jul-2007,2007,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,Jeffrey Clark,M,51.0,Minor injury to shoulder,N,,,7.0,29,Sunday
+251,28-Jul-2007,2007,Unprovoked,USA,California,"Imperial Beach, San Diego County",Surfing,Jordan Springer,M,20.0,"No injury, shark bit surfboard",N,23,,7.0,28,Saturday
+252,22-Jul-2007,2007,Unprovoked,USA,California,"Malibu, Los Angeles County",Surf paddling,Vic Calandra,M,,"No injury, surfboard bumped by shark for 20 minutes",N,,"White shark, 12' ",7.0,22,Sunday
+253,05-Jul-2007,2007,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,Chaz Cecil,M,18.0,Right foot bitten,N,16,,7.0,5,Thursday
+254,25-Jun-2007,2007,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Justin Lewis,M,20.0,6 to 8 puncture wounds to right hand,N,17,4' shark,6.0,25,Monday
+255,24-Jun-2007,2007,Unprovoked,USA,Hawaii,"Silva's Channel, Mokuleia, O'ahu",Surfing,E. Yamada,M,,"No injury, board damaged",N,07,Tiger shark,6.0,24,Sunday
+256,17-Jun-2007,2007,,USA,Florida,"Vilano Beach, St.  Johns County",Surfing,Kasey Schmidt,F,9.0,Superficial injuries to upper leg may have been caused by surfboard fin,,16,Shark involvement not confirmed,6.0,17,Sunday
+257,10-May-2007,2007,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Jennifer Manis,F,21.0,Knee bitten,N,16,4' to 5' shark,5.0,10,Thursday
+258,22-Apr-2007,2007,Unprovoked,USA,Florida,"Hutchinson Island, St. Lucie County",Body boarding,Matthew Honyak,M,12.0,Left foot bitten,N,12,blacktip or spinner shark,4.0,22,Sunday
+259,20-Apr-2007,2007,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Chad Guthrie,M,24.0,Lacerations to left index finger & thumb ,N,17,3' to 4' shark,4.0,20,Friday
+260,31-Mar-2007,2007,Unprovoked,USA,Florida,"Normandy Beach, Hutchinson Island,  St. Lucie County",Surfing,Larry Olson,M,27.0,Lacerations to right ankle ,N,14,3' shark,3.0,31,Saturday
+261,21-Mar-2007,2007,Unprovoked,USA,Florida,Jupiter Inlet,Surfing,Sam Chief,M,11.0,Punctures & lacerations to right calf & calf,N,,4' to 5' shark,3.0,21,Wednesday
+262,11-Mar-2007,2007,Unprovoked,USA,Florida,"Tiger Shores Beach, Martin County",Surfing,Adam McMichael,M,29.0,Lacerations to right forearm & hand,N,13,,3.0,11,Sunday
+263,01-Jan-2007,2007,Unprovoked,USA,Hawaii,"Majors Bay, Kaua'i",Surfing,Rich Reed,M,24.0,"No injury, shark removed piece of surfboard",N,10,"6' to 8' shark, possibly a tiger shark",1.0,1,Monday
+264,10-Dec-2006,2006,Unprovoked,USA,California,"Dillon Beach, Marin County",Surfing,Royce Fraley,M,43.0,"Minor injuries, surfboard bitten",N,11,"White shark, 12' to 15' ",12.0,10,Sunday
+265,10-Oct-2006,2006,Unprovoked,USA,Florida,"Daytona Beach, Volusia County",Surfing,Kyle Cody,M,20.0,Left ankle bitten,N,11,,10.0,10,Tuesday
+266,29-Sep-2006,2006,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Chris Andrews ,M,19.0,Big toe bitten,N,,,9.0,29,Friday
+267,11-Sep-2006,2006,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Dennis Macy,M,52.0,Left torso grazed,N,,5' shark,9.0,11,Monday
+268,29-Jul-2006,2006,,USA,California,"Broad Beach, Malibu, Los Angeles County",Boogie Boarding,Bruce Lurie,M,,"Bruises, laceration to head, spinal cord injury & neck broken at C5/C6 ",N,,"Thought to involve a mako shark, but possibly a sea lion",7.0,29,Saturday
+269,29-Jul-2006,2006,Unprovoked,USA,Florida,"Playalinda Beach, Canaveral National Seashore, Brevard County",Surfing,Matt Wishengrad,M,15.0,Foot bitten,N,,,7.0,29,Saturday
+270,25-Jul-2006,2006,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,M,14.0,Minor lacerations to right foot,N,13, ,7.0,25,Tuesday
+271,27-Jun-2006,2006,Unprovoked,USA,Florida,"Hutchinson Island, St. Lucie County",Body boarding,Juliette Shipp,F,9.0,Right calf bitten,N,11,,6.0,27,Tuesday
+272,20-Jun-2006,2006,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Elizabeth Schelk,F,22.0,2-inch puncture wounds on right foot,N,13,Possibly a 1' to 3' blacktip or spinner shark,6.0,20,Tuesday
+273,15-Jun-2006,2006,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Mike Milea,M,24.0,Four 1-inch puncture wounds on left foot ,N,15,2' to 3' shark,6.0,15,Thursday
+274,27-May-2006,2006,Unprovoked,USA,Hawaii,"North Shore, O'ahu",Surfing,Bret Desmond,M,31.0,"No injury, shark bumped surfboard",N,16,,5.0,27,Saturday
+275,21-Apr-2006,2006,Unprovoked,USA,Florida,"Sebastian Inlet, Brevard County",Surfing,T. Davis Bunn,M,54.0,Feet bitten,N,,,4.0,21,Friday
+276,23-Mar-2006,2006,Unprovoked,USA,Hawaii,"Leftovers, near Waimea Bay, O'ahu",Surfing,Elizabeth Dunn,F,28.0,5 puncture wounds in left calf,N,11,"Tiger shark, 10'  ",3.0,23,Thursday
+277,18-Jan-2006,2006,Unprovoked,USA,California,"Santa Cruz, Santa Cruz County",Night Surfing,Mario Lari,M,,"No injury, but 2 small nicks on wetsuit",N,22,,1.0,18,Wednesday
+278,04-Jan-2006,2006,Unprovoked,USA,Florida,"Round Island Park, Indian River County",Surfing,male,M,21.0,3 puncture wounds in right wrist & hand,N,16,4' shark,1.0,4,Wednesday
+279,Reported 29-Nov-2005,2005,Unprovoked,USA,Florida,"Cape San Blas, Gulf County",Surfing,John Larsen,M,,Left foot bitten,N,,,,Reported 29-Nov-2005,
+280,27-Nov-2005,2005,Unprovoked,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",Surfing,Blake Perry,M,23.0,Right thumb & palm lacerated,N,13,4' shark,11.0,27,Sunday
+281,21-Nov-2005,2005,Unprovoked,USA,Florida,"Jensen Beach, Martin County ",Surfing,a male from Miami,M,,Left foot bitten,N,,4' shark,11.0,21,Monday
+282,20-Nov-2005,2005,Unprovoked,USA,Florida,"New Smyrna  Beach, Volusia County",Surfing,Kevin Spradlin,M,17.0,Lacerations to right thigh,N,14,,11.0,20,Sunday
+283,12-Nov-2005,2005,Unprovoked,USA,Florida,"New Smyrna  Beach, Volusia County",Surfing,Lance Cameron,M,18.0,Puncture wounds to right foot,N,13,6' shark,11.0,12,Saturday
+284,02-Nov-2005,2005,Unprovoked,USA,California,"Mavericks, Half Moon Bay, San Mateo County",Surfing,Tim West,M,25.0,"No injury, board bitten",N,16,,11.0,2,Wednesday
+285,02-Nov-2005,2005,Unprovoked,USA,California,"Ocean Beach, San Francisco, San Francisco County",Surfing,Jake Daneman,M,26.0,"No injury, board bumped",N,07,12' to 14' white shark,11.0,2,Wednesday
+286,21-Oct-2005,2005,Unprovoked,USA,California,"Klamath River mouth, Del Norte County",Surfing,Chad Reiker,M,36.0,No injury,N,11,White shark,10.0,21,Friday
+287,19-Oct-2005,2005,Unprovoked,USA,California,"Salmon Beach, Sonoma County",Surfing,Megan Halavais,F,20.0,Leg bitten,N,10,18' white shark,10.0,19,Wednesday
+288,13-Oct-2005,2005,Unprovoked,USA,Hawaii,"Honokowai, Maui",Surfing,Clayton Sado,M,22.0,"No injury, surfboard bitten",N,18,"Tiger shark, less than 10'",10.0,13,Thursday
+289,06-Oct-2005,2005,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Treading water/ Surfing,Charles Hutson,M,48.0,Five 1-inch lacerations to left foot,N,16,,10.0,6,Thursday
+290,22-Sep-2005,2005,,USA,Florida,"Tigertail Beach, Collier County",Surfing,Charlie Corrado,M,,Lacerations to dorsum of left foot,,07,Shark involvement not confirmed,9.0,22,Thursday
+291,02-Sep-2005,2005,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Standing / Surfing,Frances Grause,M,62.0,Right foot bitten,N,11,,9.0,2,Friday
+292,24-Aug-2005,2005,Unprovoked,USA,California,"Scripps, LaJolla, San Diego County",Surfing,Tony Simmonson,M,37.0,Lower right leg lacerated,N,11,juvenile white shark,8.0,24,Wednesday
+293,23-Jul-2005,2005,Unprovoked,USA,Florida,"Ormond Beach, Volusia County",Surfing,Bob Thompson,M,61.0,"Right foot: Toes and back of foot, minor injury",N,11,,7.0,23,Saturday
+294,22-Jul-2005,2005,,USA,Florida,"Quarter mile south of Ponce de Leon Inlet, Volusia County",Surfing,Matthew Pearce,M,25.0,"Straight 2.5"" laceration on top of left ankle",,11,Shark involvement not confirmed,7.0,22,Friday
+295,25-Jun-2005,2005,Unprovoked,USA,Florida,"Destin, Walton County",Swimming with boogie board,Jamie Marie Daigle ,F,14.0,"FATAL, leg bitten",Y,11,1.8 m [6'] bull shark,6.0,25,Saturday
+296,02-May-2005,2005,Unprovoked,USA,Hawaii,"Noreiga's, Maui",Surfing,Scott Hoyt,M,47.0,"No injury, board damaged",N,10,"Tiger shark, 3 m [10']",5.0,2,Monday
+297,09-Apr-2005,2005,,USA,Florida,"Central Gulf Coast, St. John County",Surfing,Glenn Henderson,M,52.0,Foot injured ,,,Shark involvement not confirmed,4.0,9,Saturday
+298,16-Feb-2005,2005,Unprovoked,USA,Hawaii,"Rocky Point, north shore of O'ahu",Surfing,Greg Long,M,,"No injury, knocked off board, shark bit board",N,14,"Tiger shark, 2.4 m [8']",2.0,16,Wednesday
+299,11-Nov-2004,2004,Unprovoked,USA,California,"Bunkers, Humboldt Bay, Eureka, Humboldt County",Surfing,Brian Kang,,38.0,"Lacerations to hand, knee & thigh ",N,13,5.5 m [18'] white shark,11.0,11,Thursday
+300,10-Oct-2004,2004,Unprovoked,USA,California,"Limantour Beach, Point Reyes National Seashore",Surfing,Paul de Jung,M,,Lower leg bitten,N,09,1.8 m to 2.4 m [6' to 8'] white shark,10.0,10,Sunday
+301,02-Oct-2004,2004,Unprovoked,USA,California,"Pismo Beach, San Luis Obispo County",Surfing,Ben Ikola,M,16.0,"No injury, knocked off surfboard",N,15,,10.0,2,Saturday
+302,01-Oct-2004,2004,Unprovoked,USA,California,"Lifeguard Tower 16, Huntington Beach, Orange County",Surfing,Chuck Wilson,M,40.0,"No injury, shark struck board & spun it around",N,14,,10.0,1,Friday
+303,20-Aug-2004,2004,Unprovoked,USA,California,"204s, San Clemente, Orange County",Surfing,Shannon Lehman,M,,Foot bitten,N,17,0.9 m to 1.2 m [3' to 4'] white shark,8.0,20,Friday
+304,31-Jul-2004,2004,Unprovoked,USA,Florida,"Cocoa  Beach, Brevard County",Surfing,Kelly Getzfread,F,20.0,Right foot bitten,N,13,,7.0,31,Saturday
+305,26-Jun-2004,2004,Unprovoked,USA,California,"San Onofre State Beach, San Diego County",Surfing,Kelly French,M,45.0,"No injury, shark struck his board",N,09,"9'2"" white shark",6.0,26,Saturday
+306,28-May-2004,2004,Unprovoked,USA,California,"Salmon Creek, Sonoma County",Surfing,"Bernard 'Butch' Connor, Jr.",M,44.0,No injury,N,11,2.4 m to 3.7 m [8' to 12'] shark,5.0,28,Friday
+307,23-May-2004,2004,Unprovoked,USA,Florida,"St. Augustine, St. John's County",Boogie-boarding / swimming,male,M,9.0,Calf & foot lacerated,N,12,,5.0,23,Sunday
+308,07-Apr-2004,2004,Unprovoked,USA,Hawaii,"Kahana Beach, Maui",Surfing,Willis McInnis,M,57.0,FATAL Severe wound to right thigh & calf,Y,07,Tiger shark,4.0,7,Wednesday
+309,04-Apr-2004,2004,,USA,Hawaii,Velzyland,Surfing,Courtney Marcher,F,22.0,"Disappeared, surfboard washed ashore, marks on leash suggested shark involvement ",,,Shark involvement prior to death was not confirmed,4.0,4,Sunday
+310,31-Mar-2004,2004,Unprovoked,USA,Florida,"Stuart Rocks, Martin County",Surfing,Chance Dean,M,20.0,15 puncture wounds on foot,N,09,1.2 m [4'] bull shark,3.0,31,Wednesday
+311,28-Mar-2004,2004,Unprovoked,USA,Florida,"Pelican Beach Park, Satellite Beach, Brevard County",Surfing,male,M,,Heel bitten,N,15,bull shark,3.0,28,Sunday
+312,16-Mar-2004,2004,Unprovoked,USA,Hawaii,"Kalihiwai Beach, Kauai",Surfing,Bruce Orth,M,51.0,"No injury, board bitten",N,07,"Tiger shark, 2.4 m to 3 m [8' to 10'] ",3.0,16,Tuesday
+313,22-Nov-2003,2003,Unprovoked,USA,Florida,"Daytona Beach, Volusia County",Surfing,Taylor Trumbauer,F,35.0,Severe abrasion to left lateral calf,N,15,4' shark,11.0,22,Saturday
+314,12-Nov-2003,2003,Unprovoked,USA,Florida,"South Jetty, New Smyrna Beach, Volusia County",Surfing,Josh Crawford,M,24.0,Lacerations to hand,N,,,11.0,12,Wednesday
+315,31-Oct-2003,2003,Unprovoked,USA,Florida,"Ponte Vedra Beach, St. Johns County",Surfing,Adam Gray,M,18.0,Left foot (sole) bitten,N,15,1.2 m to 1.5 m [4' to 5'] shark,10.0,31,Friday
+316,31-Oct-2003,2003,Unprovoked,USA,Hawaii,"Tunnels surf break off Makua Beach, Kaua'i",Surfing,Bethany Hamilton,F,13.0,Left arm severed below shoulder,N,07,"Tiger shark, 14' ",10.0,31,Friday
+317,27-Oct-2003,2003,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Jeffrey Hauser,M,46.0,Laceration on right ankle & heel,N,12,,10.0,27,Monday
+318,14-Oct-2003,2003,Unprovoked,USA,Florida,Near Patrick Air Force Base Brevard County,Surfing,male,M,19.0,Foot bitten,N,,1.2 m [4'] shark,10.0,14,Tuesday
+319,05-Oct-2003,2003,Unprovoked,USA,Florida,"Ocean Reef Park, Singer Island, Palm Beach County",Surfing,female,F,,Minor puncture wounds in hand,N,15,,10.0,5,Sunday
+320,05-Oct-2003,2003,Unprovoked,USA,Florida,"Stuart Park Beach, Martin County",Surfing,male,M,18.0,5 to 6 lacerations on right foot & ankle,N,14,,10.0,5,Sunday
+321,05-Oct-2003,2003,Provoked,USA,Florida,"South Jetty, New Smyrna Beach, Volusia County",Surfing,Rick Eckstein,M,30.0,Left ankle bitten when he stepped on the shark PROVOKED INCIDENT,N,14,,10.0,5,Sunday
+322,05-Oct-2003,2003,Unprovoked,USA,Florida,"Crawford Road beach approach at New Smyrna Beach, Volusia County",Sitting on surfboard,John Demartino,M,50.0,Left foot bitten,N,12,,10.0,5,Sunday
+323,28-Sep-2003,2003,Unprovoked,USA,Florida,"North Hutchinson Island, St. Lucie Couny",Surfing,Stephen Johnson,M,16.0,Arm lacerated,N,07,,9.0,28,Sunday
+324,21-Sep-2003,2003,Unprovoked,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",Surfing,Jimmy  Arnold,M,21.0,Left foot bitten,N,11,,9.0,21,Sunday
+325,19-Sep-2003,2003,Unprovoked,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",Surfing,David Cales,M,19.0,Left heel lacerated,N,16,,9.0,19,Friday
+326,17-Sep-2003,2003,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,A.B.,M,17.0,3 puncture wounds on left foot,N,14,,9.0,17,Wednesday
+327,14-Sep-2003,2003,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Jason Williams,M,30.0,Left foot: lacerations on heel and sole,N,16,3' shark,9.0,14,Sunday
+328,13-Sep-2003,2003,Unprovoked,USA,Florida,"Daytona Beach, Volusia County ",Body boarding,Aaron Edelson,M,18.0,Left calf avulsion,N,17,6' shark,9.0,13,Saturday
+329,20-Jul-2003,2003,Unprovoked,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",Surfing,John McGovern,M,18.0,Laceration to little finger of  right hand,N,15,,7.0,20,Sunday
+330,05-Jul-2003,2003,Provoked,USA,Florida,"Near New Smyrna Jetty, Volusia County","Walking, carrying surfboard & stepped on shark",P.L.,M,10.0,3 puncture wounds on right lateral ankle PROVOKED INCIDENT,N,10,2' shark,7.0,5,Saturday
+331,05-Jul-2003,2003,Unprovoked,USA,Florida,"Canova Beach, Brevard County",Surfing,James Ingram,M,21.0,Left foot bitten,N,,1.5 m to 1.8 m [5' to 6'] shark,7.0,5,Saturday
+332,30-Jun-2003,2003,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,E.W.,M,17.0,Right foot & toes lacerated,N,13,Unidentified species,6.0,30,Monday
+333,26-Jun-2003,2003,Unprovoked,USA,Florida,St Augustine Beach. St. Johns County,Surfing,Shelby Tostevin,M,15.0,Ankle lacerated,N,,106 cm [3.5']  shark,6.0,26,Thursday
+334,08-Jun-2003,2003,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,J.D.,,15.0,6 puncture wounds to left ankle,N,11,,6.0,8,Sunday
+335,25-May-2003,2003,Unprovoked,USA,Florida,"Coral Cove Park, Jupiter Inlet, Palm Beach County",Surfing,"Kris ""Cutty"" Kildosher",M,18.0,Left foot lacerated,N,10,,5.0,25,Sunday
+336,07-May-2003,2003,Provoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Gerald Gaskins,M,34.0,Multiple bites to foot after jumping off surfboard onto shark PROVOKED INCIDENT,N,11,4' to 5' shark,5.0,7,Wednesday
+337,21-Apr-2003,2003,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County ",Surfing,Ralph Sammis,M,36.0,Right leg bitten,N,14,Unidentified species,4.0,21,Monday
+338,21-Apr-2003,2003,Unprovoked,USA,Florida,"Shepard Park, Cocoa Beach, Brevard County ",Surfing,male,M,17.0,Survived,N,13,Unidentified species,4.0,21,Monday
+339,20-Apr-2003,2003,Unprovoked,USA,Florida,"Playalinda Beach, Brevard County",Surfing,Tommy Ryan,M,30.0,Left foot bitten,N,,Unidentified species,4.0,20,Sunday
+340,20-Apr-2003,2003,Unprovoked,USA,Florida,"Sunglow Pier, Daytona Beach Shores, Volusia County",Surfing,Jeff Albright,M,23.0,Small lacerations to foot,N,09,0.9 m to 1.2 m [3' to 4'] shark,4.0,20,Sunday
+341,20-Apr-2003,2003,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Stephen Flowers,M,18.0,Left ankle bitten or right foot,N,14,Unidentified species,4.0,20,Sunday
+342,18-Apr-2003,2003,Unprovoked,USA,Florida,"North Beach, Patrick AFB, Brevard County",Surfing,male,M,12.0,2 lacerations on left thigh,N,08,Unidentified species,4.0,18,Friday
+343,09-Apr-2003,2003,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Surfing,Damien Share,M,,Arm lacerated,N,,,4.0,9,Wednesday
+344,04-Apr-2003,2003,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,"Frederick Jordan, Jr.",M,50.0,Left hand and wrist bitten,N,08,4' to 5' shark,4.0,4,Friday
+345,28-Nov-2002,2002,Unprovoked,USA,California,"Salmon Creek, Sonoma County",Body boarding,Michael Casey,M,48.0,Both legs severely lacerated,N,09,3 m to 4.5 m [10' to 15'] white shark,11.0,28,Thursday
+346,11-Nov-2002,2002,Unprovoked,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",Surfing,Joshua Johnson,M,21.0,1.5-inch laceration,N,13,6' shark,11.0,11,Monday
+347,02-Nov-2002,2002,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Boogie boarding,A.H.,M,16.0,Puncture wounds on right foot,N,13,3' to 4' shark,11.0,2,Saturday
+348,11-Oct-2002,2002,Unprovoked,USA,Florida,"Opposite main gate at Patrick Air Force Base, Cape Canaveral, Brevard County",Surfing,male,M,21.0,Left foot bitten,N,,,10.0,11,Friday
+349,05-Oct-2002,2002,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Darren Harrity,M,14.0,Abrasions on right hand & deep laceration on middle finger,N,12,Blacktip or spinner shark,10.0,5,Saturday
+350,05-Oct-2002,2002,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Ivan Rios ,M,35.0,Heel & back of right knee lacerated,N,13,3.5' to 4.5' shark,10.0,5,Saturday
+351,03-Oct-2002,2002,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Cheyne Kehoe ,M,18.0,Left hand lacerated and abraded,N,14,3.5' to 4' shark,10.0,3,Thursday
+352,30-Sep-2002,2002,Unprovoked,USA,Florida,"Ormond Beach, Volusia County",Surfing,Matt Crawford,M,47.0,Right hand severely lacerated,N,16,4' to 5' shark,9.0,30,Monday
+353,29-Sep-2002,2002,Unprovoked,USA,Florida,"Sebastian Inlet, Brevard County",Surfing,Dave Fogelberg,M,32.0,Left hand bitten,N,07,,9.0,29,Sunday
+354,27-Sep-2002,2002,Unprovoked,USA,Hawaii,"Kahala, O'ahu",Fishing from Surfboard,Arnold Lum,M,55.0,"No injury, surfboard bitten ",N,15,1.2 m [4'] blacktip shark,9.0,27,Friday
+355,21-Sep-2002,2002,Unprovoked,USA,California,"Moonstone Beach, Humboldt County",Surfing,Reed Richards,M,35.0,No injury,N,,3 m to 3.7 m [10' to 12'] shark,9.0,21,Saturday
+356,16-Sep-2002,2002,Unprovoked,USA,Hawaii,"Hideaways Beach, Princeville, Kaua'i",Body boarding,,,,"No injury, shark fin seen just before board ripped away & dragged out to sea",N,07,,9.0,16,Monday
+357,09-Sep-2002,2002,Unprovoked,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",Boogie boarding,Sean M. Erwin,M,20.0,Bitten above & below right knee,N,15,4' to 6' shark,9.0,9,Monday
+358,28-Aug-2002,2002,Unprovoked,USA,Hawaii,"Kewalo Basin Channel, O'ahu",Surfing,Shawn Farden,M,16.0,Left foot lacerated ,N,15,"Tiger shark, 2.4 m to 3 m [8' to 10'] ",8.0,28,Wednesday
+359,14-Aug-2002,2002,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Paxton Vinyard,M,27.0,Big toe bitten,N,14,0.9 m  to 1.2 m [3' to 4'] shark,8.0,14,Wednesday
+360,11-Aug-2002,2002,Unprovoked,USA,Florida,"Vero Beach, Indian River County",Surfing,Brad Milliken,M,15.0,Lacerations on heel & dorsum of right foot,N,15,"Nurse shark, 1.5 m [5'] ",8.0,11,Sunday
+361,10-Jul-2002,2002,Provoked,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",Surfing,Josh Nichtro,M,19.0,2 small lacerations on left lower leg when he jumped off board and landed on the shark PROVOKED INCIDENT,N,18,,7.0,10,Wednesday
+362,11-Jun-2002,2002,Unprovoked,USA,Hawaii,"Anini Beach, Kaua'i",Sitting on surfboard,C. Levin,,,"No injury, shark bit side of surfboard",N,,"Tiger shark, 2.4 m to 2.7 m [8' to 9']  ",6.0,11,Tuesday
+363,10-Jun-2002,2002,Unprovoked,USA,Florida,"St Augustine Beach, St Johns County",Surfing,Jason Smith,M,28.0,Right hand lacerated,N,13,0.9 m to 1.2 m [3' to 4'] shark; Tooth fragment recovered from hand,6.0,10,Monday
+364,09-Jun-2002,2002,Unprovoked,USA,Florida,"South of Ponce Inlet, New Smyrna Beach, Volusia County",Surfing,Craig Taylor,M,50.0,6-inch gash on right foot,N,10,  ,6.0,9,Sunday
+365,31-May-2002,2002,Unprovoked,USA,California,"Stinson Beach, Marin County",Surfing,Lee Fontan,M,24.0,Lacerated leg & back,N,14,3.7 m to 4.3 m [12' to 14'] white shark,5.0,31,Friday
+366,22-May-2002,2002,Unprovoked,USA,Florida,"Atlantic Avenue, Palm Beach County",Playing in the surf with his 2 dogs,Sean Oliver,M,35.0,"2-inch wound on dorsum of right foot, 1-inch wound on sole",N,06,,5.0,22,Wednesday
+367,20-Apr-2002,2002,Unprovoked,USA,Florida,"St. Augustine Beach, St. Johns County","Surfing, but standing in water alongside board",Robert Stinson,M,34.0,Left foot bitten,N,10,1.2 m [4'] shark,4.0,20,Saturday
+368,18-Apr-2002,2002,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Nolan Sutliff,M,28.0,Left foot bitten,N,11,,4.0,18,Thursday
+369,25-Mar-2002,2002,Unprovoked,USA,Hawaii,"Brenecke Beach, Po'ipu, Kaua'i",Body-boarding,Hoku Aki,M,17.0,Left leg severed below knee,N,12,Tiger shark,3.0,25,Monday
+370,19-Mar-2002,2002,Unprovoked,USA,Florida,"Daytona Beach Shores, Volusia County",Swimming /  boogie boarding,John Sadler,M,20.0,Punctures on left foot and foot ,N,15,4' shark,3.0,19,Tuesday
+371,15-Mar-2002,2002,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,M,31.0,Several  puncture wounds on lower right leg,N,10,"Spinner shark, 3' to 4' ",3.0,15,Friday
+372,14-Nov-2001,2001,Unprovoked,USA,Hawaii,"Kapalua, Maui",Surfing,M. Schweitzer,,,"No injury, portion of board's lower surface removed",N,17,,11.0,14,Wednesday
+373,24-Sep-2001,2001,Provoked,USA,Florida,"Ponce Inlet, Volusia County","Surfing, fell off surfboard & stepped on the shark.",male,M,21.0,PROVOKED INCIDENT Several small lacerations on left foot ,N,16,4' shark,9.0,24,Monday
+374,18-Sep-2001,2001,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Blaise Mosler,M,14.0,"1"" to 2"" cuts on right ankle & foot",N,15,,9.0,18,Tuesday
+375,15-Sep-2001,2001,Unprovoked,USA,Florida,A quarter mile north of Fort Pierce Inlet,Boogie boarding,Cory Hock,M,,"2 lacerations on lower back, punctures on buttock",N,15,2' to 3.5' shark,9.0,15,Saturday
+376,26-Aug-2001,2001,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Boogie Boarding,Ben Gibbs,M,18.0,Thigh & foot bitten,N,16,,8.0,26,Sunday
+377,25-Aug-2001,2001,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Boogie Boarding,male,M,18.0,Upper left thigh & right foot bitten,N,14,,8.0,25,Saturday
+378,22-Aug-2001,2001,Unprovoked,USA,Florida,"Daytona, Volusia County ",Surfing,Lowell Lutz,M,17.0,Foot lacerated,N,16,a small shark,8.0,22,Wednesday
+379,21-Aug-2001,2001,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Omar Oyarce,M,27.0,Thigh lacerated,N,16,,8.0,21,Tuesday
+380,19-Aug-2001,2001,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Robert Kurrek,M,32.0,Cuts on right foot,N,13,,8.0,19,Sunday
+381,19-Aug-2001,2001,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Becky Chapman,F,17.0,Lacerations to lower leg,N,13,,8.0,19,Sunday
+382,19-Aug-2001,2001,Unprovoked,USA,Florida,"Wilbur-by-the-Sea, Volusia County",Surfing,female,F,17.0,Left foot lacerated,N,11,,8.0,19,Sunday
+383,18-Aug-2001,2001,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Jeff White,M,20.0,Cuts on right foot,N,12,Possibly  a blacktip or spinner shark,8.0,18,Saturday
+384,18-Aug-2001,2001,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Jaison Valentin,M,19.0,Back of left hand gashed,N,12,"3' shark, possibly  a blacktip or spinner shark",8.0,18,Saturday
+385,18-Aug-2001,2001,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Dylan Feindt,M,19.0,Left ankle bitten,N,10,"Blacktip shark, 5' to 6' ",8.0,18,Saturday
+386,15-Jul-2001,2001,Unprovoked,USA,Florida,"Santa Rosa Island, Escambia County",Surfing,Michael Waters ,M,48.0,Left foot & heel lacerated,N,14,,7.0,15,Sunday
+387,15-Jul-2001,2001,Unprovoked,USA,Florida,"Amelia Island, Nassau County",Boogie boarding,Tim Flanigan,M,18.0,Foot lacerated,N,14,0.9 m  [3'] shark,7.0,15,Sunday
+388,03-May-2001,2001,Unprovoked,USA,Florida,"Jacksonville, Duval County",Surfing,John McCall,M,45.0,Foot lacerated ,N,19,1.2 m to 1.5 m [4' to 5'] shark,5.0,3,Thursday
+389,28-Apr-2001,2001,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Boogie boarding,male,M,14.0,4 small lacerations on lower right leg,N,15,,4.0,28,Saturday
+390,13-Apr-2001,2001,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Jonathan Bush,M,16.0,Foot & ankle lacerated,N,11,,4.0,13,Friday
+391,13-Apr-2001,2001,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Andrew Barron,M,12.0,Right foot & ankle lacerated,N,10,Possibly a juvenile blacktip or spinner shark,4.0,13,Friday
+392,12-Apr-2001,2001,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Richard Spence,M,38.0,Foot & ankle lacerated,N,16,,4.0,12,Thursday
+393,12-Apr-2001,2001,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Emmet Browning,M,21.0,Small cuts on big & pinky toes of left foot,N,16,Possibly a juvenile blacktip or spinner shark,4.0,12,Thursday
+394,12-Apr-2001,2001,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Body boarding,"John Fasio, Jr ",M,12.0,Foot & ankle lacerated,N,12,Possibly a juvenile blacktip or spinner shark,4.0,12,Thursday
+395,12-Apr-2001,2001,Unprovoked,USA,Florida,"New Smyrna Beach / Waveland, Volusia County",Surfing,Richard Lloyd,M,22.0,Foot lacerated,N,11,Possibly a 1.5 m [5'] blacktip or spinner shark,4.0,12,Thursday
+396,11-Apr-2001,2001,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Elren Thresher,M,19.0,Minor cuts on right heel & foot,N,,Possibly a juvenile blacktip or spinner shark,4.0,11,Wednesday
+397,11-Apr-2001,2001,Unprovoked,USA,Florida,"New Smyrna Beach / Waveland, Volusia County",Surfing,Jordan Carter,M,22.0,Lacerations to top & bottom of left foot,N,12,,4.0,11,Wednesday
+398,11-Apr-2001,2001,Unprovoked,USA,Hawaii,"Ewa Beach, O'ahu",Surfing,Gilbert Dano,M,,Minor punctures & lacerations on left hand ,N,07,"1 m shark, possibly whitetip reef shark",4.0,11,Wednesday
+399,10-Apr-2001,2001,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,a surfer from Port Orange,,16.0,Foot lacerated,N,,Possibly a juvenile blacktip or spinner shark,4.0,10,Tuesday
+400,05-Apr-2001,2001,Unprovoked,USA,Florida,"Bethune Beach, south of New Smyrna Beach, Volusia County",Standing alongside surfboard,Jason Bartholem,M,26.0,Minor lacerations to dorsum of left foot,N,14,"""small shark""",4.0,5,Thursday
+401,23-Mar-2001,2001,Unprovoked,USA,Hawaii,"Sandy Beach, Oahu",Body-boarding,Michael Mendez,M,,"Minor cuts on left hand, body board bitten",N,14,,3.0,23,Friday
+402,09-Mar-2001,2001,Unprovoked,USA,Florida,"Coral Cove Park, Jupiter Island, Martin County",Surfing,Chad Hooker,M,,Fingers & hand lacerated,N,,"Spinner shark, 1.2 m to 1.5 m [4' to 5'] ",3.0,9,Friday
+403,09-Jan-2001,2001,Unprovoked,USA,California,"Sunset Cliffs, San Diego",Surfing,Larry McCash,M,,"Foot bruised, board dinged",N,,"1.8 m to 2.4 m [6' to 8'] ""black finned shark""",1.0,9,Tuesday
+404,04-Nov-2000,2000,Unprovoked,USA,California,"1/4 to 1/2 m north of the jetty at Bunkers, Eureka, Humboldt County",Surfing,Casey Stewman,M,27.0,Both thighs bitten,N,16,"White shark, 2.4 m to 3 m [8' to 10'] ",11.0,4,Saturday
+405,20-Oct-2000,2000,Unprovoked,USA,Florida,"Fort Pierce Inlet State Park, St Lucie County",Surfing,Jason Licamele,M,23.0,Leg lacerated,N,18,,10.0,20,Friday
+406,09-Oct-2000,2000,Unprovoked,USA,Florida,"Lake Worth Inlet/West Palm Beach, Palm Beach County",Surfing,Matt Kraskiewicz,M,17.0,Foot lacerated,N,,2.1 to 2.4 m [7' to 8'] shark,10.0,9,Monday
+407,06-Oct-2000,2000,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Austin White,M,23.0,Fingers lacerated,N,14,"Blacktip shark, 2' ",10.0,6,Friday
+408,06-Oct-2000,2000,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Body surfing,Taylor Holley,M,11.0,Right foot & heel lacerated,N,12,,10.0,6,Friday
+409,29-Sep-2000,2000,Unprovoked,USA,California,"Mavericks, Half Moon Bay, San Mateo County",Sitting on surfboard,Peck Euwer,M,,No injury,N,09,"White shark, 4.3 m [14']",9.0,29,Friday
+410,15-Sep-2000,2000,Unprovoked,USA,Florida,"Fort Pierce Inlet, St Lucie County",Standing / surfing,Gary Smith,M,49.0,Right lower leg & ankle lacerated,N,18,,9.0,15,Friday
+411,12-Sep-2000,2000,Unprovoked,USA,Florida,"Sebastian Inlet, Indian River or Brevard County",Surfing,Brenda Fried,F,26.0,Puncture wounds on knee,N,12,,9.0,12,Tuesday
+412,11-Sep-2000,2000,Unprovoked,USA,Florida,"Daytona Beach Shores, Volusia County",Swimming / Body surfing,Jason Armstrong,M,25.0,Finger lacerated,N,13,60 cm to 90 cm [2' to 3'] shark,9.0,11,Monday
+413,15-Aug-2000,2000,Unprovoked,USA,Hawaii,"Kanaha Beach, Maui","Windsurfing, but sitting on his board",Jean Alain Goenvec,M,53.0,Left calf lacerated,N,11,"Tiger shark, 3.7 m to 4.5 m [12' to 14'9""]  ",8.0,15,Tuesday
+414,13-Aug-2000,2000,Unprovoked,USA,Florida,"South Jacksonville Beach, Duval County",Surfing / Wading,Jason Wuss,M,27.0,Minor lacerations to the dorsum of the right foot,N,16,juvenile shark,8.0,13,Sunday
+415,09-Apr-2000,2000,Unprovoked,USA,Florida,"Municipal Beach, Riviera Beach, Palm Beach County",Boogie boarding / wading,teen,M,,Puncture marks on right thigh,N,14,,4.0,9,Sunday
+416,26-Mar-2000,2000,Unprovoked,USA,Florida,"Juno Beach, Palm Beach County",Boogie boarding,Heather Van Olst,F,14.0,Right knee lacerated,N,11,1.8 m [6'] shark,3.0,26,Sunday
+417,24-Mar-2000,2000,Unprovoked,USA,Florida,"Floridana Beach, Brevard County",Surfing,Barry Pasonski,M,37.0,Left hand bitten,N,14,1.2 m [4'] shark,3.0,24,Friday
+418,02-Dec-1999,1999,Unprovoked,USA,Florida,"Boynton Beach, Palm Beach County",Surfing,male,M,35.0,Right arm & fingers lacerated,N,12,,12.0,2,Thursday
+419,30-Nov-1999,1999,Unprovoked,USA,Florida,"Palm Beach, Palm Beach County",Surfing,Jeremiah Wyche,M,19.0,Lacerations to hand & wrist,N,15,,11.0,30,Tuesday
+420,15-Nov-1999,1999,Unprovoked,USA,California,"Waddell Reef, Santa Cruz County",Surfing (sitting on his board),Jack Wolf,M,,"No injury, board bitten",N,,White shark,11.0,15,Monday
+421,30-Oct-1999,1999,Unprovoked,USA,Florida,"Daytona Beach, Volusia County",Body boarding,Keven Dolsky,M,45.0,Right foot lacerated,N,17,,10.0,30,Saturday
+422,30-Oct-1999,1999,Unprovoked,USA,Florida,"Gulfstream Park beach, Palm Beach County",Body surfing,Troy Jesse,M,13.0,"Shark bit 8"" chunk from swim fin",N,15,,10.0,30,Saturday
+423,20-Oct-1999,1999,Unprovoked,USA,Florida,"Pet Den, Satellite Beach, Brevard County",Surfing,David Hunt,M,,Lacerations to right hand & wrist,N,,"Lemon shark, 2.7 m [9'] ",10.0,20,Wednesday
+424,01-Oct-1999,1999,Unprovoked,USA,Hawaii,Old Kona Airport State Park,"Surfing, lying on surfboard",Jesse Spencer,M,16.0,Right arm bitten,N,18,"Tiger shark, 1.8 m to 2.4 m [6' to 8'] ",10.0,1,Friday
+425,29-Sep-1999,1999,Unprovoked,USA,Florida,"South side of Ponce de Leon Inlet, Volusia County",Wading to shore after surfing,Joel A. Borges,M,22.0,3 one-inch lacerations to sole of right foot,N,18,,9.0,29,Wednesday
+426,05-Sep-1999,1999,Unprovoked,USA,Florida,"Fort Pierce Inlet, St. Lucie County",Surfing,Mike Sprague,M,13.0,Right foot bitten,N,,1.5 m to 1.8 m [5' to 6'] shark,9.0,5,Sunday
+427,04-Sep-1999,1999,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Wading with surfboard,Tony Crabtree,M,39.0,Right foot bitten,N,19,,9.0,4,Saturday
+428,26-Aug-1999,1999,Unprovoked,USA,Florida,"Bethune Beach, south of New Smyrna Beach, Volusia County",Surfing,Chris Ayers,M,28.0,3-inch laceration to right foot,N,14,"""a small shark""",8.0,26,Thursday
+429,21-Aug-1999,1999,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,G.C.,M,17.0,Small lacerations to right foot,N,18,,8.0,21,Saturday
+430,05-Aug-1999,1999,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Body surfing,Charles Adkins,M,62.0,Right ankle & heel  lacerated,N,11,4' to 5' shark,8.0,5,Thursday
+431,21-Jul-1999,1999,Unprovoked,USA,Hawaii,Honoli'i in Hilo (west side of Big Island),Surfing,Griffith Yamaguchi,M,43.0,Right thigh & buttock bitten,N,10,"Tiger shark, 1.8 m to 2.4 m [6' to 8'] ",7.0,21,Wednesday
+432,17-Jun-1999,1999,Unprovoked,USA,Florida,"South of Ponce Inlet, Volusia County",Surfing,Lucas Bryant,M,21.0,Right hand and wrist lacerated,N,09,3' to 4' shark,6.0,17,Thursday
+433,01-Apr-1999,1999,Unprovoked,USA,Florida,"Hobe Sound Beach, Palm Beach County",Surfing,male,M,14.0,Ankle bitten,N,,,4.0,1,Thursday
+434,08-Mar-1999,1999,Unprovoked,USA,Hawaii,"Kealia Beach, Kaua'i",Body surfing or body boarding,Jonathan Allen,M,18.0,Bruised right leg,N,,,3.0,8,Monday
+435,03-Feb-1999,1999,Unprovoked,USA,Florida,"Hobe Sound, Martin County",Surfing,Kenny Burns,M,25.0,Left hand bitten,N,15,Spinner shark,2.0,3,Wednesday
+436,24-Dec-1998,1998,Provoked,USA,Florida,"Ormond Beach, Volusia County",Surfing,Andy Thompson,M,19.0,Left foot bitten after he accidentally stepped on the shark         PROVOKED INCIDENT ,N,08,,12.0,24,Thursday
+437,14-Nov-1998,1998,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Larry Foor,M,14.0,Right foot bitten,N,08,1.2 m [4'] shark,11.0,14,Saturday
+438,10-Oct-1998,1998,Unprovoked,USA,Florida,"Sebastian Inlet, Indian River County",Surfing,Jarod Ruszkowski ,M,,Right hand bitten,N,,,10.0,10,Saturday
+439,27-Sep-1998,1998,Unprovoked,USA,Florida,"The Rocks, Hutchinson Island, Martin County",Surfing,Kai Haire,M,6.0,Puncture wounds to leg,N,,,9.0,27,Sunday
+440,22-Sep-1998,1998,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Jade Blackstock,M,18.0,Left arm lacerated,N,15,,9.0,22,Tuesday
+441,14-Sep-1998,1998,Unprovoked,USA,Florida,"Stuart Beach, Martin County",Surfing,Danny Hoopes,M,28.0,Right foot bitten,N,,1.8 m [6'] shark,9.0,14,Monday
+442,30-Aug-1998,1998,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,J. Howington,M,26.0,Toes lacerated,N,20,3' to 4' shark,8.0,30,Sunday
+443,26-Aug-1998,1998,Unprovoked,USA,California,"Stinson Beach, Marin County",Boogie boarding,Jonathan Kathrein,M,16.0,"Thigh, buttocks & lower back lacerated",N,14,"White shark, 5 m to 6 m [16.5' to 20'] ",8.0,26,Wednesday
+444,13-Aug-1998,1998,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Body-boarding,Robert Parcus,M,11.0,Left calf injured,N,,4.5' to 5' shark,8.0,13,Thursday
+445,25-Jul-1998,1998,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Michael Rinto,M,13.0,Calf bitten,N,,,7.0,25,Saturday
+446,08-Jun-1998,1998,Unprovoked,USA,Florida,"Daytona Beach, Volusia County",Surfing,Brian Catarra,M,18.0,"2-inch laceration on dorsum of foot, 1-inch laceration on sole.",N,18,,6.0,8,Monday
+447,25-May-1998,1998,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Jack Mounteer,M,40.0,4 lacerations on the sole of his right foot,N,11,"Lemon shark, 1.5 m [5'], identified  by the surfer",5.0,25,Monday
+448,16-May-1998,1998,Unprovoked,USA,Florida,"Walden Rocks, St. Lucie County",Swimming / surfing,Roger Moore,M,24.0,Left arm & wrist lacerated,N,15,,5.0,16,Saturday
+449,08-Mar-1998,1998,Unprovoked,USA,Florida,"Loggerhead Park, Juno Beach, Palm Beach County",Swimming or paddle boarding,Rick Welch,M,32.0,6 puncture wounds to right calf,N,,5' spinner shark,3.0,8,Sunday
+450,28-Oct-1997,1997,Unprovoked,USA,Hawaii,"Waiokapua Bay/Majors Bay, Brennecke Beach, Poipu, Kaua'i Island",Body boarding or surfing,Mike Coots,M,19.0,"Both legs bitten, right leg severed at mid-calf & defense wounds on right hand",N,07,"Tiger shark, 4 m to 4.3 m [13' to 14'] ",10.0,28,Tuesday
+451,24-Oct-1997,1997,Unprovoked,USA,Florida,"North Jetty, Fort Pierce Inlet State Park, St. Lucie County",Surfing,Luis Morales,M,23.0,"5"" gash in foot",N,17,Possibly a blacktip shark,10.0,24,Friday
+452,21-Oct-1997,1997,Unprovoked,USA,Florida,"North Jetty, Fort Pierce Inlet State Park, St. Lucie County",Surfing,Jacob McBee,M,12.0,Left foot bitten,N,18,1.2 m to 1.5 m [4' to 5'] shark,10.0,21,Tuesday
+453,09-Sep-1997,1997,Unprovoked,USA,Florida,Volusia County  ,Surfing,G.D.,M,12.0,Laceration to right foot,N,17,,9.0,9,Tuesday
+454,08-Sep-1997,1997,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,,17.0,2 small lacerations to bottom of foot,N,,small blacktip shark,9.0,8,Monday
+455,06-Sep-1997,1997,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Robert Lange,M,20.0,Lacerations to lower left leg,N,15,,9.0,6,Saturday
+456,30-Aug-1997,1997,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Chris Hoyas,M,18.0,Lacerations on right ankle & heel,N,13,,8.0,30,Saturday
+457,27-Aug-1997,1997,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Walking / surfing,Anthony Aleno,M,22.0,"2"" laceration on left heel",N,11,,8.0,27,Wednesday
+458,24-Aug-1997,1997,Unprovoked,USA,California,"Clam Beach, near Eureka, Humboldt County",Surfing (sitting on his board),Scott Yerby,M,29.0,Leg & hand bitten,N,12,5 m [16.5'] white shark,8.0,24,Sunday
+459,10-Aug-1997,1997,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Boogie boarding,N. F.,M,17.0,Lacerations to foot,N,11,,8.0,10,Sunday
+460,09-Aug-1997,1997,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,M,,Lacerations to right foot,N,17,,8.0,9,Saturday
+461,02-Aug-1997,1997,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Body surfing,Rodigo Cesar,M,17.0,Top of left foot bitten,N,15,juvenile shark,8.0,2,Saturday
+462,02-Aug-1997,1997,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Wading / Surfing,Matthew Perny,M,19.0,Top of left foot bitten,N,09,"""juvenile shark""",8.0,2,Saturday
+463,09-Jun-1997,1997,Unprovoked,USA,Florida, Palm Beach County,Surfing,Michael Massey,M,18.0,Laceration to left upper arm,N,18,Possibly a spinner shark,6.0,9,Monday
+464,02-Jun-1997,1997,Unprovoked,USA,Florida,"Daytona Beach Shores,  Volusia County","Body surfing, stood up on sandbar",Doug Amelio,M,33.0,4 lacerations above left ankle,N,10,1.2 m [4'] shark (spinner shark?),6.0,2,Monday
+465,31-May-1997,1997,Unprovoked,USA,Florida,"Flagler Beach, Flagler County",Surfing,Robert Fuller,M,34.0,Left elbow bitten,N,11,Possibly a sand shark,5.0,31,Saturday
+466,31-May-1997,1997,Unprovoked,USA,Florida,"Flagler Beach, Flagler County",Surfing,Johnny  Bowden,M,12.0,Left ankle bitten,N,11,Possibly a sand shark,5.0,31,Saturday
+467,29-Nov-1996,1996,Unprovoked,USA,California,"Salmon Creek Beach, Sonoma County",Surfing,Greg Ferry,M,45.0,Single laceration on ankle & board bitten,N,08,3 m to 5 m [10' to 16.5'] white shark,11.0,29,Friday
+468,18-Nov-1996,1996,Unprovoked,USA,Florida,"Coral Cove Park, Palm Beach County",Surfing,Adam Urban ,M,26.0,Right foot bitten,N,17,,11.0,18,Monday
+469,05-Oct-1996,1996,Unprovoked,USA,California,"Dillon Beach, Marin County",Surfing,Mark Quirt,M,22.0,Lower leg bitten,N,13,5.5 m to 6 m [18' to 20'] white shark,10.0,5,Saturday
+470,03-Oct-1996,1996,Unprovoked,USA,Florida,"Cocoa Beach, Brevard County",Surfing,Aric Hollingsworth,M,21.0,"4"" laceration on left forearm",N,08,1.2 m [4'] shark,10.0,3,Thursday
+471,03-Oct-1996,1996,Unprovoked,USA,California,"North Salmon Creek Beach, Sonoma County",Surfing,Kennon Cahill,M,31.0,"No Injury, shark struck his board",N,07,5 m [16.5'] white shark,10.0,3,Thursday
+472,06-Sep-1996,1996,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing / Swimming,John Perkins,M,19.0,Small puncture wounds and lacerations on right leg just below knee,N,12,"""a young shark""",9.0,6,Friday
+473,02-Sep-1996,1996,Unprovoked,USA,Florida,"Bethune Beach, Volusia County",Sitting on surfboard,Chris Volz,M,28.0,Small lacerations on left foot,N,13,,9.0,2,Monday
+474,29-Aug-1996,1996,Unprovoked,USA,Hawaii,"Paukukalo, Maui",Body Boarding,"David Nanod, Jr.",M,19.0,Right calf bitten,N,16,"Tiger shark, 2.4 m [8'] ",8.0,29,Thursday
+475,18-May-1996,1996,Unprovoked,USA,Florida,"South of Ponce Inlet, Volusia County",Surfing,Mike Rebel,M,22.0,Right foot & ankle bitten,N,13,1.2 m [4'] shark,5.0,18,Saturday
+476,07-May-1996,1996,Unprovoked,USA,Florida,"Shark Shallows, Ponce Inlet, Volusia County",Surfing,Jimmy Grunewald,M,27.0,Left foot & leg bitten,N,11,60 cm to 90 cm [2' to 3'] blacktip or spinner shark,5.0,7,Tuesday
+477,Reported 28-Oct-1995,1995,Unprovoked,USA,Florida,,Boogie boarding,Matthew Beyrer,M,13.0,Lacerations to right foot,N,,,,Reported 28-Oct-1995,
+478,21-Oct-1995,1995,Unprovoked,USA,Florida,"North Beach, St. Lucie County",Surfing,John Foley,M,17.0,Foot bitten,N,,,10.0,21,Saturday
+479,01-Oct-1995,1995,Unprovoked,USA,Florida,"Ormond Beach, Volusia County",Surfing,Stephen Massfeller,M,39.0,Right arm injured,N,11,1.2 m to 1.5 m [4' to 5']   shark,10.0,1,Sunday
+480,30-Sep-1995,1995,Unprovoked,USA,Florida,"Crescent Beach, St. Augustine, St. Johns County",Surfing,Jon Grace,M,14.0,4 punctures in left foot,N,,1.5 to 1.8 m [5' to 6'] shark,9.0,30,Saturday
+481,30-Sep-1995,1995,Unprovoked,USA,Florida,"North Beach, Hutchinson Island, St. Lucie County",Surfing,Ryan Evans,M,17.0,Leg & ankle bitten,N,,,9.0,30,Saturday
+482,28-Sep-1995,1995,Unprovoked,USA,California,"Davenport Landing, Santa Cruz County",Windsurfing,Mike Sullivan,M,25.0,"Right foot bruised, board bitten",N,17,4 m [13'] white shark,9.0,28,Thursday
+483,19-Sep-1995,1995,Unprovoked,USA,Florida,"Matanzas Bay Inlet, St. Johns County",Surfing,Gavin Korth,M,19.0,Left arm & hand lacerated,N,,1.8 m [6'] shark,9.0,19,Tuesday
+484,03-Sep-1995,1995,Unprovoked,USA,California,"Shelter Cove, Humboldt County",Abalone diving using Hookah (resting on the surface),Brian Hillenburg,M,32.0,Lower leg bitten,N,16,3 m to 4 m [10' to 13'] white shark,9.0,3,Sunday
+485,31-Aug-1995,1995,Unprovoked,USA,Florida,"North Beach Inlet, St. Lucie County",Surfing,Jason Cablish,M,19.0,Left hand & forearm bitten,N,,1.2 m to 1.5 m [4' to 5'] shark,8.0,31,Thursday
+486,26-Aug-1995,1995,Unprovoked,USA,Florida,"Crescent Beach, St. Johns County",Surfing,Brian Korth,M,16.0,Left elbow bitten,N,18,5' shark,8.0,26,Saturday
+487,26-Aug-1995,1995,Unprovoked,USA,Florida,"Ponce de Leon Inlet, Volusia County",Surfing,Dwight Irvin,M,18.0,4 puncture wounds on right pinky finger,N,14,"""a small shark""",8.0,26,Saturday
+488,22-Aug-1995,1995,Unprovoked,USA,Florida,"Ponce de Leon Inlet, Volusia County",Surfing,Jason Barzo,M,19.0,Bottom of left foot gashed,N,19,"""small shark""",8.0,22,Tuesday
+489,10-Aug-1995,1995,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,male,M,20.0,Laceration to left heel,N,13,,8.0,10,Thursday
+490,07-Aug-1995,1995,Unprovoked,USA,Florida,"Ponce de Leon Inlet, Volusia County ",Body boarding,Matt Sturgis,M,12.0,Multiple bites on right leg and knee,N,14,1.2 m to 1.5 m [4' to 5'] shark,8.0,7,Monday
+491,28-Jul-1995,1995,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,M,,Left foot bitten,N,16,,7.0,28,Friday
+492,28-Jul-1995,1995,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,M,,Minor laceration on lower leg,N,14,,7.0,28,Friday
+493,28-Jul-1995,1995,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Patrick Moore,M,18.0,Laceration to heel,N,14,,7.0,28,Friday
+494,23-Jul-1995,1995,Unprovoked,USA,Florida,"South Jetty, New Smyrna Beach, Volusia County",Body boarding,male,M,47.0,Foot bitten,N,,,7.0,23,Sunday
+495,26-May-1995,1995,Unprovoked,USA,Florida,"Vero Beach, Indian River County",Surfing,Brent Enck,M,15.0,Left foot bitten,N,,Possibly a bull shark,5.0,26,Friday
+496,18-Dec-1994,1994,Unprovoked,USA,Hawaii,"Kinikini, Mana, Kaua'i","Surfing, sitting on board",Anonymous,,,"No injury, shark bit surfboard",N,14,,12.0,18,Sunday
+497,13-Nov-1994,1994,Unprovoked,USA,Hawaii,"Off the Hanalei River, Kaua'i","Surfing, paddling seawards",Kathleen  McCarthy Lunn ,F,34.0,Right thigh & board bitten,N,09,2.7 m [9'] shark,11.0,13,Sunday
+498,06-Nov-1994,1994,Unprovoked,USA,Hawaii,"Kealia Beach, Kaua'i",Surfing,C. Stokes,,,"No injury, shark bit surfboard",N,16,,11.0,6,Sunday
+499,05-Oct-1994,1994,Unprovoked,USA,Florida,"Indialantic, Brevard County",Surfing,Scott Dulmage,M,16.0,Foot bitten,N,12,,10.0,5,Wednesday
+500,08-Jul-1994,1994,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Michael Post ,M,15.0,Right calf lacerated,N,15,"""small shark""",7.0,8,Friday
+501,31-May-1994,1994,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,Steve Polack,M,24.0,Foot lacerated,N,10,,5.0,31,Tuesday
+502,31-May-1994,1994,Unprovoked,USA,Florida," Daytona Beach, Volusia County",Surfing,Alex Reeber,M,,Right foot lacerated,N,08,1.2 m [4'] spinner shark,5.0,31,Tuesday
+503,15-May-1994,1994,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Joel Tatro,M,22.0,Right knee lacerated,N,08,>1.8 m [6'] shark,5.0,15,Sunday
+504,19-Feb-1994,1994,Unprovoked,USA,Florida,"Juno Beach, Palm Beach County",Surfing,Edwin Riley III,M,23.0,Left foot bitten,N,13,1.2 m [4'] shark,2.0,19,Saturday
+505,31-Jan-1994,1994,Unprovoked,USA,Hawaii,"Velzyland, north shore of O'ahu",Surfing,Jim Broach,M,,FATAL,Y,,Tiger shark,1.0,31,Monday
+506,1994,1994,Unprovoked,USA,Florida,"Flagler Beach, Flagler County",Surfing,Jeff Weakley,M,,Foot bitten,N,,,,19,
+507,Dec-1993,1993,Unprovoked,USA,Hawaii,Waipo,Surfing,Daniel McMoyler,M,,FATAL,Y,,"On 11-Jan-1994, his remains washed ashore. A 2.4 m [8'] tiger shark thought to be involved",,Dec-1993,
+508,12-Nov-1993,1993,Unprovoked,USA,Hawaii,"Horners, Wailua, Kaua'i","Surfing, paddling shorewards",David Silva,M,,Left leg severely bitten,N,10,,11.0,12,Friday
+509,30-Oct-1993,1993,Unprovoked,USA,California,"""Bunkers"" Eureka, Humboldt County",Surfing,Robert Williams,M,26.0,Serious injury to left leg,N,16,4 m to 5 m [13' to 16.5'] white shark,10.0,30,Saturday
+510,Oct-1993,1993,Unprovoked,USA,Hawaii,"Mouth of Wallua River, Kaua'i",Surfing,,,,Serious leg wounds,N,,Tiger shark,,Oct-1993,
+511,Reported      19-Aug-1993,1993,Unprovoked,USA,Florida,"Bethune Beach, Volusia County",Surfing,Shawn Bushong ,,13.0,Right foot bitten,N,,,,Reported      19-Aug-1993,
+512, 19-Aug-1993,1993,Unprovoked,USA,Hawaii,"Paukukalo, Maui","Surfing, paddling seawards",Reggie Williams,M,,Abrasions & board bitten,N,07,,,1,
+513,10-Jun-1993,1993,Unprovoked,USA,Hawaii,"Goats Island (Mokuauia Island), Malaekahana State Recreation Area, Laie, O'ahu",Paddling on surfboard or body board,Jonathan Mozo,M,22.0,Feet & ankles bitten,N,07,Thought to involve a tiger shark,6.0,10,Thursday
+514,14-Mar-1993,1993,Unprovoked,USA,Hawaii,"Paradise Bay (next to Wailua Bay), Maui",Paddling on surfboard,Roddy Lewis,M,35.0,Lower legs lacerated ,N,15,"Tiger shark, 3.7 m [12'], (tooth fragment recovered from wound)",3.0,14,Sunday
+515,23-Dec-1992,1992,Unprovoked,USA,Hawaii,"Chun's Reef, Laniakea, O'ahu",Lying on surfboard,Gary M. Chun,M,30.0,"Minor lacerations to hand, 15"" crescent-shaped piece removed from surfboard",N,17,"Tiger shark, 3 m to 4.9 m [10' to 16'] ",12.0,23,Wednesday
+516,25-Nov-1992,1992,Unprovoked,USA,Florida,"Brevard County, a mile north of Sebastian Inlet",Surfing,Matthew Robertson Paul,M,19.0,Forearm  & hand bitten; tooth fragments of the shark were recovered from the surfer's hand,N,07,6' to 7' blacktip shark,11.0,25,Wednesday
+517,23-Nov-1992,1992,Unprovoked,USA,Florida,,Surfing,Larry Bush,M,24.0,Right ankle bitten,N,13,1.8 m [6'] shark,11.0,23,Monday
+518,06-Nov-1992,1992,Unprovoked,USA,Florida,"North Jetty Park, Fort Pierce, St Lucie County",Surfing,Josh Greinstein ,M,17.0,Heel bitten,N,14,,11.0,6,Friday
+519,05-Nov-1992,1992,Unprovoked,USA,Hawaii,"Kea'au Beach Park, O'ahu",Body boarding,Aaron  A. Romento,M,18.0,Right leg severely lacerated  FATAL,Y,09,"Tiger shark, 3 m to 3.7 m [10' to 12'] ",11.0,5,Thursday
+520,22-Oct-1992,1992,Unprovoked,USA,Hawaii,"Lanaikea, O'ahu",Surfing,Rick (Eric) Gruzinsky,M,28.0,"Chest & arm bruised & scratched, 15"" crescent-shaped piece removed from board",N,07,"Tiger shark, 4.3 m [14'] ",10.0,22,Thursday
+521,Sep-1992,1992,Unprovoked,USA,Florida,St Lucie County,Surf fishing,male,M,,"Foot bitten, 8 stitches needed to repair the wound",N,,,,Sep-1992,
+522,18-Aug-1992,1992,Unprovoked,USA,California,"Klamath River, Del Norte County",Surfing,Keith Caruso,M,22.0,"No injury, board bitten",N,17,5.5 m to 6 m [18' to 20'] white shark,8.0,18,Tuesday
+523,28-Mar-1992,1992,Unprovoked,USA,Hawaii,"Cannons, at Ha'ena on the north shore of Kaua'i Island","Surfing, paddling seawards",Jude Chamberlin,F,36.0,"Foot bitten, crescent of bitemarks in both sides of board",N,,Tiger shark,3.0,28,Saturday
+524,19-Feb-1992,1992,Unprovoked,USA,Hawaii,"Leftovers, near Waimea Bay, O'ahu",Body boarding,Brian Adona,M,,FATAL Disappeared. His board washed ashore next morning with crescent-shaped piece missing and serrated toothmarks of a shark,Y,,Tiger shark?,2.0,19,Wednesday
+525,12-Oct-1991,1991,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Surfing,Cliff Turner,M,21.0,Right foot & ankle lacerated,N,08,1.8 m [6'] shark,10.0,12,Saturday
+526,05-Oct-1991,1991,Unprovoked,USA,California,"Horseshoe Reef, Scott Creek, Davenport, Santa Cruz County",Surfing,John Ferrerira,M,32.0,"Arm, shoulder & back bitten",N,07,5 m to 6 m [16.5' to 20'] white shark,10.0,5,Saturday
+527,01-Jul-1991,1991,Unprovoked,USA,California,"8.5 miles south of Ano Nuevo State Reserve, Davenport County",Surfing,Eric Larsen,M,32.0,"Forearm, upper thigh, knee & ankle lacerated",N,09,5 m [16.5'] white shark,7.0,1,Monday
+528,26-Jun-1991,1991,Unprovoked,USA,Florida,"Jacksonville Beach, Duval County",Surfing,Joe Bosque,M,18.0,Hand bitten,N,17,,6.0,26,Wednesday
+529,26-May-1991,1991,Unprovoked,USA,Hawaii,"Ma'ili Beach, O'ahu",Sitting on surfboard,Frank (Scott) Betz,M,23.0,Right calf bitten,N,16,2.4 m [8'] shark,5.0,26,Sunday
+530,16-Apr-1991,1991,Unprovoked,USA,Florida,"South of Ponce Inlet, New Smyrna Beach, Volusia County","Surfing, collided with shark",David Kohler,M,22.0,Right thigh,N,11,1.2 m to 1.5 m [4' to 5'] shark,4.0,16,Tuesday
+531,03-Apr-1991,1991,Unprovoked,USA,Hawaii,"One'ula Beach Park, 'Ewa Beach, O'ahu",Sitting on surfboard,Todd R. Wenke,M,,Deep lacerations to calf & ankle,N,17,"""Shark had a very large girth""",4.0,3,Wednesday
+532,03-Nov-1990,1990,Unprovoked,USA,California,"Monastery Beach, Carmel Bay, Monterey County",Scuba diving (but on surface),Eloise Tavares,F,,Leg bitten,N,15,4 m to 5 m [13' to 16.5'] white shark,11.0,3,Saturday
+533,01-Nov-1990,1990,Unprovoked,USA,Florida,"Spanish River Park Beach, Palm Beach County",Surfing,James Cornell,M,24.0,"Ear, shoulder, arm, wrist & ear injured",N,09,5' shark,11.0,1,Thursday
+534,30-Oct-1990,1990,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Surfing,Robert Spratt,M,50.0,"Hand & wrist bitten, tooth fragments in wound",N,16,1.8 m [6'] shark ,10.0,30,Tuesday
+535,30-Oct-1990,1990,Unprovoked,USA,Florida,"Indialantic, Brevard County",Surfing,Mark Evans,M,18.0,Cuts on left foot ,N,15,,10.0,30,Tuesday
+536,20-Oct-1990,1990,Unprovoked,USA,Florida,"North end of County Beach, Palm Beach County",Surfing,Carl Demers,M,25.0,Wrist bitten,N,16,4' spinner shark,10.0,20,Saturday
+537,15-Oct-1990,1990,Unprovoked,USA,Hawaii,"Hanalei Point, Kaua'i",Surfing,Greg Filtzer,M,43.0,"No Injury, board bitten",N,15,"Tiger shark, 3.7 m [12'] ",10.0,15,Monday
+538,12-Oct-1990,1990,Unprovoked,USA,Florida,"Stuart Beach, Martin County",Surfing,Gabe Martino,M,19.0,Superficial injuries to left foot & ankle,N,12,1.8 m to 2.4 m [6' to 8'] shark,10.0,12,Friday
+539,08-Sep-1990,1990,Unprovoked,USA,California,"Russian Gulch, Jenner, Sonoma County","Free diving / spearfishing, from paddleboard & floating on the surface",Rodney Orr,M,49.0,"Shark rammed & overturned paddleboard, knocking him into water & bit his head, lacerating his face & neck",N,13,White shark,9.0,8,Saturday
+540,28-Aug-1990,1990,Unprovoked,USA,California,"Trinidad Head, Humboldt County",Surfing,Rodney Swan,M,22.0,4 punctures on leg & board bitten,N,16,5 m to 6 m [16.5' to 20'] white shark,8.0,28,Tuesday
+541,08-Jul-1990,1990,Unprovoked,USA,Florida,"Perdido Key near the Florida Panhandle, Escambia County",Surfing,Scott Holloway,M,17.0,Minor injury to left ankle & foot,N,,,7.0,8,Sunday
+542,01-Apr-1990,1990,Unprovoked,USA,Hawaii,"Silver (Silva) Channels, Waialua, O'ahu",Sitting on surfboard,Everett Peacock,M,,"Ankle lacerated, lower left leg severely abraded ",N,,,4.0,1,Sunday
+543,05-Feb-1990,1990,Unprovoked,USA,Florida,"Monster Hole, Sebastian Inlet, Indian River County",Board sailing,Bruce Ferguson,M,33.0,Foot bitten,N,,,2.0,5,Monday
+544,12-Jan-1990,1990,Unprovoked,USA,California,"Montera Beach, San Mateo County",Surfing (sitting on his board),Sean Sullivan,M,,"No injury, board bitten",N,,3 m to 4 m [10' to 13'] white shark,1.0,12,Friday
+545,1990,1990,Unprovoked,USA,Florida,"Pensacola, Escambia County",Surfing,male,M,17.0,,,,,,19,
