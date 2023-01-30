@@ -1,7 +1,6 @@
 # Project I | Pandas
 ## Rocket Analytics' advices for John White 🚀
 
-This young surfer in the picture is John White: 
 ![John-White](Images/John-White.jpeg)
 
 John White is a 17-year-old surfer from New Smyrna Beach, a coastal town in the U.S. 
