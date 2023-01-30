@@ -4,6 +4,7 @@ import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
 import re
+import datetime
 
 # Datasets
 attacks = attacks = pd.read_csv("attacks.csv", index_col=0, encoding='latin-1')
@@ -32,12 +33,44 @@ def drop_any (df):
 #    for specie in df["Species "]:
 #        if "white"
 
-    
-
 def filter_by_pattern(df, column, pattern):
     mask = df[column].str.contains(pattern, na=False, regex=True)
     df = df[mask]
+    return df
 
+def month_number(x):
+    months = {
+        'Jan': 1,
+        'Feb': 2,
+        'Mar': 3,
+        'Apr':4,
+        'May':5,
+        'Jun':6,
+        'Jul':7,
+        'Aug':8,
+        'Sep':9,
+        'Oct':10,
+        'Nov':11,
+        'Dec':12
+    }
+    try:
+        x = months[x]
+        return x
+    except KeyError:
+        pass
+
+def weekdays (df):
+    weekdays_list = []
+    for i in range(df.shape[0]): 
+        try:
+            weekday = datetime.date(attacks["Year"][i], int(attacks["Month"][i]), attacks["Day"][i]).strftime("%A")
+            weekdays_list.append(weekday)
+        except ValueError:
+            weekdays_list.append(np.nan)
+
+    df["Weekday"] = weekdays_list
+
+        
         
 # Analysis
     # Get list with all variables in the dataframe
@@ -79,5 +112,3 @@ def df_datatypes (df):
 # Visualizations
 plt.style.use("classic")
 sns.set(rc={"figure.figsize":(12,6)})
-
-
