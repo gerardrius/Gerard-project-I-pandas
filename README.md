@@ -1,5 +1,7 @@
 # Project I | Pandas
-## Rocket Analytics' advices for John White 🚀
+## Rocket Analytics' advices for John White 🚀🏄🏼‍♂️
+
+John White 🏄🏼‍♂️
 
 ![John-White](Images/John-White.jpeg)
 
@@ -16,7 +18,7 @@ difficult for him to extract meaningful conclusions, so he came to Rocket Analyt
 get some help.
 
 
-Rocket Analytics Inc.🚀
+Rocket Analytics Inc. 🚀
 ![Rocket Analytics](Images/Rocket-Analytics.png)
 
 Rocket Analytics Inc. is a Data Consulting firm based in Barcelona.
